@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Jessie Muir
+title: Bernardita Ried
 
-# Short description of your site
-description: Personal site. 
+# Your name to show in the footer
+author: Bernardita Ried Guachalla
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,10 +20,18 @@ description: Personal site.
 
 # List of links in the navigation bar
 navbar-links:
-  Research: "research"
-  # Publications: "pubs"
-  Travel: "travel"
-  Cartoons: "cartoons"	
+  # Sobre mi: "aboutme"
+  Educación:
+    - Preu en Cuarentena: "https://www.preuencuarentena.com"
+    # - ZigZAG Sampling: "zz_sampling"
+    # - Charlas Técnicas: ""
+  Divulgación:
+    # - Charlas Públicas: "charlas_publicas"
+    - CATA: "http://www.cata.cl/"
+    # - Traducción DES: "traduccion_DES"
+  # Prensa: "prensa"
+  # Fotografía: "fotografia"
+  Contacto: "contacto"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -50,40 +58,43 @@ footer-link-col: "#b8b6b6" # "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-navbar-img: "/img/hubble-deep-field-wallpaper.jpg"
-footer-img: "/img/hubble-deep-field-wallpaper.jpg"
-# page-img: 
+navbar-img: "/img/1.JPG"
+footer-img: "/img/2.JPG"
+# page-img: "/assets/img/2.JPG"
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Jessie Muir
+  name: Bernardita Ried Guachalla
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-#  rss: true
-  email: "jlmuir@stanford.edu"
-  github: jessmuir
-  twitter: jlynnmuir
-  inspire: Jessica.Muir.1
-  orchid: 0000-0002-7579-770X
+  email: "bernarditariedg@gmail.com"
+#  facebook: deanattali
+  github: bernarditaried
+#  twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
+  instagram: bernarditaried
+  youtube: user/bernarditaried
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
+#  telegram: yourname
+#  calendly: yourname
+#  mastodon: instance.url/@username
+#  ORCID: your ORCID ID
+#  google-scholar: your google scholar
 
 # Select which share links to show in posts
 share-links-active:
@@ -93,7 +104,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "jessiemuir.com"  # 
+# url-pretty: ""  # 
 
 # --- Web Statistics Section --- #
 
