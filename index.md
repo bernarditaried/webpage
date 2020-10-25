@@ -1,38 +1,32 @@
 ---
 layout: page
-title: Jessie Muir
-subtitle: Porat Fellow at Stanford. Cosmology theory and data analysis to learn about fundamental physics.
+title: Bernardita Ried
+subtitle: Licenciada en Astronomía y Física
 use-site-title: true
-share-img: http://www.jessiemuir.com/img/jessie-headshot-15.jpg
 ---
-![](/img/jessie-headshot-15.jpg "Portrait of Jessie smiling in front of some bushes, taken by Jenn Chen")
-
-I'm a Porat Fellow at the [Kavli Institute for Particle Astrophysics and Cosmology (KIPAC)](https://kipac.stanford.edu/) at Stanford. I'm interested in using cosmological observations to better understand and constrain fundamental physics, and in studying how we can get as much information as possible out of those observations. I'm also interested in science outreach and in making STEM fields more accessible and welcoming to everyone.  I'm part of [Risa Wechsler](https://www.risawechsler.com/)'s [galaxy formation and cosmology group](https://www.risawechsler.com/gfc-group.html), and do research as part of the [Dark Energy Survey](https://www.darkenergysurvey.org/) collaboration.
-
-I grew up in Romeo, a suburb of Detroit, Michigan.  I received my undergraduate degree from Michigan State University, where I did an astrophysics undergrad thesis supervised by [Mark Voit](https://web.pa.msu.edu/people/voit/Mark.html). I spent two years at the University of Cambridge as a [Marshall Scholar](http://www.marshallscholarship.org/) where I completed [Part III of the Mathematical Tripos](https://www.maths.cam.ac.uk/postgrad/part-iii/prospective.html) and then spent a year working on modified gravity research with [Anne-Christine Davis](cam.ac.uk/people/a.c.davis/).  I got my PhD at University of Michigan's [Department of Physics](https://lsa.umich.edu/physics), where my advisor was [Dragan Huterer](http://www-personal.umich.edu/~huterer/).
-
-The headshot above was taken by [Jenn Chen](https://jennchen.com).
-
----
-## CV: [linked here](http://www.jessiemuir.com/Muir-CV-oct-2020.pdf)
----
-## Links & contact
-
-* Email: jlmuir ~at~ stanford ~dot~ edu
-* INSPIRE: [Jessica.Muir.1](https://inspirehep.net/author/profile/Jessica.Muir.1)
-* ORCID: [0000-0002-7579-770X](http://orcid.org/0000-0002-7579-770X)
-* github: [jessmuir](https://github.com/jessmuir)
-* twitter: [jlynnmuir](https://twitter.com/jlynnmuir)
-
-Want to hear me give a talk?
-* [**"Echoes of the Early Universe"**](https://www.youtube.com/watch?v=FDKzkWo0ucQ) **(Public lecture, 1hr)** -  I gave this talk for the general public in July 2020 as part of KIPAC's online "Discover" series. It's about the  Cosmic Micorwave Background, and how we can use measurements of it to learn about the history of the Universe and about fundamental physics.
-* [**"Towards precision cosmology on the largest observable scales"**](http://meetings.aps.org/Meeting/APR20/Session/C03.3) **(Technical talk, 30m)** - This is a talk I gave as a finalist for the APS Cecilia Payne-Gaposchkin Thesis Prize  during a virtual session of the 2020 APS April meeting. It covers my dissertation projects  on [ISW signal reconstruction](https://inspirehep.net/literature/1431943), [CMB large-angle anomaly covariances](https://inspirehep.net/literature/1676866), and  [multi-probe blinding](https://inspirehep.net/literature/1765119) for cosmology analysis.
+![](/img/Portrait3.jpg)
 
 
----
-## Education
+Mi nombre es Bernardita Ried y soy curiosa por naturaleza. Tengo 23 años y actualmente estoy cursando un Magíster en Física en la Universidad de Chile porque amo aprender.
 
-* PhD in Physics - University of Michigan, 2018.
-* MPhil in Astronomy - Gonville and Caius College, University of Cambridge, 2013.
-* MASt in Applied Mathematics (Part III) - Gonville and Caius College, University of Cambridge, 2012.
-* B.S. Physics & B.S. Astrophysics - Michigan State University, 2010.
+- Quiero entender el cosmos mediante observaciones astronómicas y contrastarlas con los modelos teóricos.
+- Programo en Python, Matlab y Latex. Algún día en C++.
+- Estoy comprometida con la educación y la divulgación científica. En Abril de 2020 fundé un [preuniversitario online gratuito de matemáticas](https://www.preuencuarentena.com/) por la pandemia del COVID19 y soy divulgadora del [CATA](http://www.cata.cl/).
+- Cada día me doy cuenta que menos sé del mundo.
+- Amo ser mujer.
+
+#### [Currículum](https://drive.google.com/file/d/166aN0BqZxsmo1Dr-gnnkkmle-Bd8NSAD/view?usp=sharing) 
+Actualizado Octubre 2020.
+
+#### Grupo de Cosmología y Astrofísica Teórica
+Soy parte del grupo de [Cosmología y Astrofísica Teórica](http://www.dfi.uchile.cl/grupos-investigacion/cosmologia-y-astrofisica-teorica/) del [Departamento de Física](http://www.dfi.uchile.cl/) de la Universidad de Chile. Tenemos seminarios (+ cosmopizzas), journal clubs y más actividades. Si quieres puedes enviarme un correo para comunicarte con nosotr@s.
+
+#### Interés de Investigación
+Estoy interesada en usar observaciones cosmológicas para entender de mejor manera nuestro universo y así poder definir una teoría de la física fundamental más exacta. Para cumplir ese objetivo, constantemente estudio métodos estadísticos y nuevas herramientas de inteligencia artificial. Actualmente investigo sobre priors planos en la conexión de las Galaxias con la Materia usando datos del [Dark Energy Survey (DES)](https://www.darkenergysurvey.org/).
+
+#### Pasatiempos
+Me encanta tomar fotos (puedes ver mi selección), hablar, cocinar y despertarme temprano. Me gusta tomar café con leche antes de ir al estadio nacional, donde lanzo jabalina y entreno con la selección de mi universidad. Mi fruta favorita es es plátano.
+
+[¿Quieres escucharme dar una charla de divulgación?](https://www.facebook.com/centrodeastrofisicacata/videos/918578238632478)
+
+##### Conceptos Clave: Cosmología, Astronomía, Física, Estadística, Feminismo, Atletismo, Educación, Divulgación
