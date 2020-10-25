@@ -21,14 +21,13 @@ author: Bernardita Ried Guachalla
 # List of links in the navigation bar
 navbar-links:
   # Sobre mi: "aboutme"
+  Cosmología: "cosmologia"
   Educación:
-    - Preu en Cuarentena: "https://www.preuencuarentena.com"
-    - ZigZAG Sampling: "zz_sampling"
-    # - Charlas Técnicas: ""
+    # - Preu en Cuarentena: "https://www.preuencuarentena.com"
+    # - ZigZAG Sampling: "zz_sampling"
   Divulgación:
-    - Charlas Públicas: "charlas_publicas"
-    - CATA: "http://www.cata.cl/"
-    - Traducción DES: "traduccion_DES"
+    # - Charlas Públicas: "charlas_publicas"
+    # - CATA: "http://www.cata.cl/"
   Prensa: "prensa"
   Fotografía: "fotografia"
   Contacto: "contacto"
