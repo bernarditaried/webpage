@@ -22,7 +22,7 @@ author: Bernardita Ried Guachalla
 navbar-links:
   # Sobre mi: "aboutme"
   Cosmología: "cosmologia"
-  Educación:
+  Educación: "educacion"
     - Preu en Cuarentena: "https://www.preuencuarentena.com"
     - ZigZAG Sampling: "https://github.com/bernarditaried/ZigZag-Sampling-Tutorial"
   Divulgación:
