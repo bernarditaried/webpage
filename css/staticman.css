@@ -111,7 +111,7 @@
   margin-top: 2rem;
   margin-bottom: 10px;
   padding-top: 2rem;
-  border-top: 1px solid #f2f3f3;
+  border-top: 1px solid #828b8b;
 }
 .staticman-comments .page__comments-form {
   -webkit-transition: all 0.2s ease-in-out;
@@ -128,7 +128,7 @@
   margin: 1em 0;
 }
 .staticman-comments .comment:not(:last-child) {
-  border-bottom: 1px solid #f2f3f3;
+  border-bottom: 1px solid #828b8b;
 }
 .staticman-comments .comment__avatar-wrapper {
   float: left;
@@ -176,5 +176,5 @@
 .staticman-comments .page__comments + .staticman-comments .pagination {
   margin-top: 2em;
   padding-top: 2em;
-  border-top: 1px solid #f2f3f3;
+  border-top: 1px solid #828b8b;
 }
