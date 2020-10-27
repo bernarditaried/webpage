@@ -22,10 +22,10 @@ author: Bernardita Ried Guachalla
 navbar-links:
   # Sobre mi: "aboutme"
   Cosmología: "cosmologia"
-  Educación: "educacion"
+  Educación:
     - Preu en Cuarentena: "https://www.preuencuarentena.com"
     - ZigZAG Sampling: "https://github.com/bernarditaried/ZigZag-Sampling-Tutorial"
-  Divulgación: "divulgacion"
+  Divulgación:
     # - Charlas Públicas: "charlas_publicas"
     - CATA: "http://www.cata.cl/"
   Prensa: "prensa"
