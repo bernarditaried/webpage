@@ -26,7 +26,7 @@ Traductora: Bernardita Ried
 
 Si toda la historia del universo se comprimiera en un calendario anual, toda la historia de la humanidad ocurriría en los últimos 15 segundos del día 31 de diciembre.
 
-Artista: [Chihway Chang](https://chihway.github.io/)\ 
+Artista: [Chihway Chang](https://chihway.github.io/) \ 
 Traductora: Bernardita Ried
 
 ![](/img/db3.jpg)
