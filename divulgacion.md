@@ -9,6 +9,8 @@ use-site-title: true
 - [El comienzo de todo. El Big Bang](https://www.youtube.com/watch?v=lJV1Tpaq4RU&list=PLqY_wjz2QOQ9qERVsLZejP50xwjohLXIl&index=2)
 - [¿Qué es la gravedad?](https://www.youtube.com/watch?v=rSAcJOuvk6c&list=PLqY_wjz2QOQ9qERVsLZejP50xwjohLXIl&index=3)
 
+
+
 #### Darkbites to Spanish:
 
 [Dark Energy Survey](https://www.darkenergysurvey.org/) es un proyecto que busca revelar el origen de la aceleración del Universo y la naturaleza de la energía oscura, observando la evolución de la expansión cósmica a lo largo de sus 14 mil millones de años de existencia. Más de 400 científicos de más de 25 instituciones en Estados Unidos, Brasil, Alemania, Chile, España, Reino Unido, Suiza y Australia trabajan en el proyecto. Esta colaboración ha construido y está usando una cámara digital de 570 megapíxeles denominada Cámara de la Energía Oscura (DECam, por sus siglas en inglés), montada en el telescopio Blanco de 4 metros en el Cerro Tololo Inter-American Observatory (CTIO) en los Andes chilenos.
