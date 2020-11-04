@@ -25,9 +25,7 @@ navbar-links:
   Educación:
     - Preu en Cuarentena: "https://www.preuencuarentena.com"
     - ZigZAG Sampling: "https://github.com/bernarditaried/ZigZag-Sampling-Tutorial"
-  Divulgación:
-    # - Charlas Públicas: "charlas_publicas"
-    - CATA: "http://www.cata.cl/"
+  Divulgación: "divulgacion"
   Prensa: "prensa"
   Fotografía: "fotografia"
   Contacto: "contacto"
