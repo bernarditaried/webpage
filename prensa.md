@@ -4,6 +4,8 @@ title: Prensa
 use-site-title: true
 ---
 
+![](/img/mim.jpeg)
+
 #### Divulgación:
 
 - [Día del Niño: Realizarán charlas online de astronomía este fin de semana](https://www.meganoticias.cl/tendencias/310674-dia-del-nino-charla-astronomia-universidad-chile-cata-domingo-sabado-fin-semana-jrx07.html)
