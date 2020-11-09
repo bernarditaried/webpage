@@ -25,7 +25,7 @@ Soy parte del grupo de [Cosmología y Astrofísica Teórica](http://www.dfi.uchi
 Estoy interesada en usar observaciones cosmológicas para entender de mejor manera nuestro universo y así poder definir una teoría de la física fundamental más exacta. Para cumplir ese objetivo, constantemente estudio métodos estadísticos y nuevas herramientas de inteligencia artificial. Actualmente investigo sobre priors planos en la conexión de las Galaxias con la Materia usando datos del [Dark Energy Survey (DES)](https://www.darkenergysurvey.org/).
 
 #### Pasatiempos
-Me encanta tomar fotos (puedes ver mi selección), hablar, cocinar y despertarme temprano. Me gusta tomar café con leche antes de ir al estadio nacional, donde lanzo jabalina y entreno con la selección de mi universidad. Mi fruta favorita es es plátano.
+Me encanta tomar fotos (puedes ver mi selección), hablar, cocinar y despertarme temprano. Me gusta tomar café con leche antes de ir al estadio nacional, donde lanzo jabalina y entreno con la selección de mi universidad. Mi fruta favorita es el plátano.
 
 [¿Quieres escucharme dar una charla de divulgación?](https://www.facebook.com/centrodeastrofisicacata/videos/918578238632478)
 
