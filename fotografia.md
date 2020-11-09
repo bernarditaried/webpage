@@ -8,10 +8,10 @@ Esta es una selección de fotografías que he tomado utilizando cámaras análog
 
 #### Análogas Antiguas
 
-![](/Fotografía/1_1.jpg)
-![](/Fotografía/1_2.jpg)
-![](/Fotografía/1_3.jpg)
-![](/Fotografía/1_4.jpg)
+![](Fotografía/1_1.jpg)
+![](Fotografía/1_2.jpg)
+![](Fotografía/1_3.jpg)
+![](Fotografía/1_4.jpg)
 
 
 
