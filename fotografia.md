@@ -51,13 +51,21 @@ Puedes ver más de mi trabajo en mi cuenta de [instagram de fotografía](https:/
 #### Revolución Social Chile 2019
 
 ![](/img/fotografia/8_1.JPG)
+
 ![](/img/fotografia/8_2.JPG)
+
 ![](/img/fotografia/8_3.JPG)
+
 ![](/img/fotografia/8_4.JPG)
+
 ![](/img/fotografia/8_5.JPG)
+
 ![](/img/fotografia/10_1.JPG)
+
 ![](/img/fotografia/10_2.JPG)
+
 ![](/img/fotografia/10_3.JPG)
+
 ![](/img/fotografia/10_4.JPG)
 
 
