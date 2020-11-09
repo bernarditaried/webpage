@@ -64,5 +64,7 @@ Puedes ver más de mi trabajo en mi cuenta de [instagram de fotografía](https:/
 #### Paisajes
 
 ![](/img/fotografia/14_1.JPG)
-![](/img/fotografia/14_2.JPG)
 ![](/img/fotografia/15_2.JPG)
+![](/img/fotografia/14_2.JPG)
+![](/img/fotografia/2_1.JPG)
+![](/img/fotografia/2_2.JPG)
