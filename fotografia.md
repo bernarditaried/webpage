@@ -15,6 +15,11 @@ Puedes ver más de mi trabajo en mi cuenta de [instagram de fotografía](https:/
 ![](/img/fotografia/1_3.jpg)
 ![](/img/fotografia/1_4.jpg)
 
+#### Observatorios
+
+![](/img/fotografia/3_1.jpg)
+![](/img/fotografia/3_2.jpg)
+
 #### Perros de Santiago
 
 ![](/img/fotografia/4_1.jpg)
