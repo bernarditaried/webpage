@@ -11,8 +11,11 @@ Puedes ver más de mi trabajo en mi cuenta de [instagram de fotografía](https:/
 #### Análogas Antiguas
 
 ![](/img/fotografia/1_1.jpg)
+
 ![](/img/fotografia/1_2.jpg)
+
 ![](/img/fotografia/1_3.jpg)
+
 ![](/img/fotografia/1_4.jpg)
 
 #### Observatorios
