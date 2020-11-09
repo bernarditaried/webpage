@@ -17,28 +17,28 @@ Puedes ver más de mi trabajo en mi cuenta de [instagram de fotografía](https:/
 
 #### Observatorios
 
-![](/img/fotografia/3_1.jpg)
-![](/img/fotografia/3_2.jpg)
+![](/img/fotografia/3_1.JPG)
+![](/img/fotografia/3_2.JPG)
 
 #### Perros de Santiago
 
-![](/img/fotografia/4_1.jpg)
-![](/img/fotografia/4_2.jpg)
-![](/img/fotografia/4_3.jpg)
+![](/img/fotografia/4_1.JPG)
+![](/img/fotografia/4_2.JPG)
+![](/img/fotografia/4_3.JPG)
 
 #### Japón Análogo
 
-![](/img/fotografia/5_1.jpg)
-![](/img/fotografia/5_2.jpg)
-![](/img/fotografia/5_3.jpg)
-![](/img/fotografia/5_4.jpg)
-![](/img/fotografia/5_5.jpg)
-![](/img/fotografia/5_6.jpg)
-![](/img/fotografia/5_7.jpg)
-![](/img/fotografia/5_8.jpg)
-![](/img/fotografia/5_9.jpg)
-![](/img/fotografia/9_1.jpg)
-![](/img/fotografia/9_2.jpg)
+![](/img/fotografia/5_1.JPG)
+![](/img/fotografia/5_2.JPG)
+![](/img/fotografia/5_3.JPG)
+![](/img/fotografia/5_4.JPG)
+![](/img/fotografia/5_5.JPG)
+![](/img/fotografia/5_6.JPG)
+![](/img/fotografia/5_7.JPG)
+![](/img/fotografia/5_8.JPG)
+![](/img/fotografia/5_9.JPG)
+![](/img/fotografia/9_1.JPG)
+![](/img/fotografia/9_2.JPG)
 
 #### Sur de Chile
 
