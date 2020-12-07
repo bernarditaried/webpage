@@ -3,7 +3,6 @@ layout: page
 title: Eclipse 2020
 use-site-title: true
 ---
-![](/img/Portrait4.jpg)
 
 Los cielos de Chile, reconocidos laboratorios naturales para la observación del universo, serán el escenario de un evento astronómico histórico: el eclipse totales de Sol.
 
