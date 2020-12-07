@@ -5,6 +5,12 @@ use-site-title: true
 ---
 ![](/img/Portrait4.jpg)
 
+Los cielos de Chile, reconocidos laboratorios naturales para la observación del universo, serán el escenario de un evento astronómico histórico: el eclipse totales de Sol.
+
+La Temporada de Eclipses es una oportunidad para maravillarnos con uno de los fenómenos más impresionantes de la naturaleza, que pone a nuestro país en el centro de la atención mundial.
+
+Eclipse Araucanía-Los Ríos
+El 14 de diciembre de 2020, un eclipse total de Sol cruzará las regiones de La Araucanía, Los Ríos y Biobío (Isla Mocha); siendo visible, de manera parcial, en todo el territorio nacional. La totalidad del eclipse en suelo chileno comienza a las 13:03:44 (Temuco).
 
 #### Cápsulas Gobierno de Chile:
 
@@ -12,7 +18,13 @@ use-site-title: true
 - [#EclipseResponsable ¿Por qué no todos los eclipses son totales?](https://www.youtube.com/watch?v=Y7f5iskXh4M&list=PLqY_wjz2QOQ8kqq7UPwt8XD_tUw1Z8fcv&index=2)
 - [#EclipseResponsable ¿Por qué los eclipses nos hacen especiales a nosotr@s l@s terrícolas?](https://www.youtube.com/watch?v=X-RJGT2EPik&list=PLqY_wjz2QOQ8kqq7UPwt8XD_tUw1Z8fcv&index=3)
 - [#EclipseResponsable El eclipse y la búsqueda de nuevos mundos](https://www.youtube.com/watch?v=lsOdHPX0VY8&list=PLqY_wjz2QOQ8kqq7UPwt8XD_tUw1Z8fcv&index=4)
+- [#EclipseResponsable ¿Con qué nos vamos a sorprender en este eclipse?](https://www.youtube.com/watch?v=p0xEnnKCk60&list=PLqY_wjz2QOQ8kqq7UPwt8XD_tUw1Z8fcv&index=5)
+
+
+
+
+
 
 #### Prensa:
 
-- [#Eclipse2020 CHV y CNN](https://www.youtube.com/watch?v=ODgGHMHY1Rs)
+- [#Eclipse2020 CHV y CNN](https://www.youtube.com/watch?v=ODgGHMHY1Rs&list=PLqY_wjz2QOQ8kqq7UPwt8XD_tUw1Z8fcv&index=6)
