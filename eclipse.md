@@ -3,8 +3,8 @@ layout: page
 title: Eclipse 2020
 use-site-title: true
 ---
-![](/img/eclipse_total.jpg)
-Foto: ESO/P. Horálek/Solar Wind Sherpas project
+![](/img/eclipse_1.jpg)
+Foto que tomé artesanalmente con mi teléfono
 
 Los cielos de Chile, reconocidos laboratorios naturales para la observación del universo, serán el escenario de un evento astronómico histórico: el eclipse totales de Sol.
 
@@ -12,6 +12,17 @@ La Temporada de Eclipses es una oportunidad para maravillarnos con uno de los fe
 
 Eclipse Araucanía-Los Ríos
 El 14 de diciembre de 2020, un eclipse total de Sol cruzará las regiones de La Araucanía, Los Ríos y Biobío (Isla Mocha); siendo visible, de manera parcial, en todo el territorio nacional. La totalidad del eclipse en suelo chileno comienza a las 13:03:44 (Temuco).
+
+¡Fue una experiencia muy bonita! Por motivos de fuerza mayor no pude viajar a la zona de totalidad pero lo disfruté muchísimo con gente que quiero mucho. Lo vi en Santiago. Les comparto un par de fotitos :)
+
+![](/img/eclipse_1.jpg)
+
+
+![](/img/eclipse_2.jpg)
+
+
+![](/img/eclipse_3.jpg)
+
 
 #### Cápsulas Gobierno de Chile:
 
@@ -24,8 +35,8 @@ El 14 de diciembre de 2020, un eclipse total de Sol cruzará las regiones de La 
 
 
 
-
-
 #### Prensa:
 
 - [#Eclipse2020 CHV y CNN](https://www.youtube.com/watch?v=ODgGHMHY1Rs&list=PLqY_wjz2QOQ8kqq7UPwt8XD_tUw1Z8fcv&index=6)
+- [Después de 800 años: Durante el eclipse se podrá apreciar la conjunción de Júpiter y Saturno](https://www.youtube.com/watch?v=4OxwVjT3kCc&list=PLqY_wjz2QOQ9qERVsLZejP50xwjohLXIl&index=15)
+- [Eclipse 2020, medidas de seguridad y por qué son importantes los eclipses](https://www.youtube.com/watch?v=4OxwVjT3kCc&list=PLqY_wjz2QOQ9qERVsLZejP50xwjohLXIl&index=16)
