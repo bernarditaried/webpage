@@ -40,3 +40,4 @@ El 14 de diciembre de 2020, un eclipse total de Sol cruzará las regiones de La 
 - [#Eclipse2020 CHV y CNN](https://www.youtube.com/watch?v=ODgGHMHY1Rs&list=PLqY_wjz2QOQ8kqq7UPwt8XD_tUw1Z8fcv&index=6)
 - [Después de 800 años: Durante el eclipse se podrá apreciar la conjunción de Júpiter y Saturno](https://www.youtube.com/watch?v=4OxwVjT3kCc&list=PLqY_wjz2QOQ9qERVsLZejP50xwjohLXIl&index=15)
 - [Eclipse 2020, medidas de seguridad y por qué son importantes los eclipses](https://www.youtube.com/watch?v=4OxwVjT3kCc&list=PLqY_wjz2QOQ9qERVsLZejP50xwjohLXIl&index=16)
+- [Mundo científico hace balance positivo del eclipse: "Chile es maravilloso desde el punto de vista astronómico"](https://www.24horas.cl/eclipse-2020/mundo-cientifico-hace-balance-positivo-del-eclipse-chile-es-maravilloso-desde-el-punto-de-vista-astronomico-4570284)
