@@ -17,6 +17,8 @@ use-site-title: true
 - [Alumnos de U. de Chile crean preuniversitario online y gratuito para preparar prueba de matemáticas](https://www.biobiochile.cl/especial/e-learning/noticias/2020/04/24/alumnos-de-u-de-chile-crean-preuniversitario-online-y-gratuito-para-preparar-prueba-de-matematicas.shtml)
 - [Impulsora del proyecto ‘Preu En Cuarentena’: “Queremos dar material en francés y español para la comunidad haitiana”](https://www.duna.cl/programa/aire-fresco/2020/04/23/impulsora-del-proyecto-preu-en-cuarentena-queremos-dar-material-en-frances-y-espanol-para-la-comunidad-haitiana/)
 - [Universidad de Chile ofreció preuniversitario online y gratuito para rendir prueba de transición de matemáticas](https://www.adnradio.cl/cultura-y-educacion/2020/04/23/universidad-de-chile-ofrecio-preuniversitario-online-y-gratuito-para-rendir-prueba-de-transicion-de-matematicas.html)
+- [DIEZ HEROÍNAS DEL 2020](https://drive.google.com/file/d/18jX_8RFN02siE1J3oaJNw4yrHZM0H0F_/view?usp=sharing)
+
 
 #### Ciencia
 
