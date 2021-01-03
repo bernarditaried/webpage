@@ -10,6 +10,7 @@ use-site-title: true
 
 - [Día del Niño: Realizarán charlas online de astronomía este fin de semana](https://www.meganoticias.cl/tendencias/310674-dia-del-nino-charla-astronomia-universidad-chile-cata-domingo-sabado-fin-semana-jrx07.html)
 - [Astrónomas chilenas: La misión de enseñar ciencia a niñas y niños](https://www.latercera.com/paula/astronomas-chilenas-la-mision-de-ensenar-ciencia-a-ninas-y-ninos/)
+- [FCFM te espera: Testimonio de Bernardita Ried, física y astrónoma](https://www.uchile.cl/multimedia/172024/fcfm-te-espera-testimonio-de-bernardita-ried-fisica-y-astronoma)
 
 #### Preu en Cuarentena:
 
