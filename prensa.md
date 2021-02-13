@@ -30,6 +30,7 @@ use-site-title: true
 - [Después de 800 años: Durante el eclipse se podrá apreciar la conjunción de Júpiter y Saturno](https://www.youtube.com/watch?v=4OxwVjT3kCc&list=PLqY_wjz2QOQ9qERVsLZejP50xwjohLXIl&index=15)
 - [Eclipse 2020, medidas de seguridad y por qué son importantes los eclipses](https://www.youtube.com/watch?v=4OxwVjT3kCc&list=PLqY_wjz2QOQ9qERVsLZejP50xwjohLXIl&index=16)
 - [Por si te lo perdiste: Conoce la lista de los 10 próximos eclipses de Sol](https://www.futuro360.com/el-universo/por-si-te-lo-perdiste-conoce-la-lista-de-los-10-proximos-eclipses-de-sol_20201215/)
+- [El mapa más grande de materia oscura del Universo fue observado desde Chile](https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/astronomia/2021/01/25/el-mapa-mas-grande-de-materia-oscura-del-universo-fue-observado-desde-chile.shtml)
 
 
 #### Entrevistas
@@ -37,7 +38,11 @@ use-site-title: true
 - [Fuera de Órbita con Teresa Paneque](https://soundcloud.com/txsradio/fuera-de-orbita-con-teresa-paneque-catalina-agurto-y-bernardita-ried-5-de-octubre)
 - [Jóvenes Estrellas con Raimundo Roberts](https://soundcloud.com/txsradio/jovenes-estrellas-con-raimundo-roberts-y-21-de-agosto?in=txsradio/sets/jovenes-estrellas)
 - [Mundo científico hace balance positivo del eclipse: "Chile es maravilloso desde el punto de vista astronómico"](https://www.24horas.cl/eclipse-2020/mundo-cientifico-hace-balance-positivo-del-eclipse-chile-es-maravilloso-desde-el-punto-de-vista-astronomico-4570284)
+- [All you need is Lab - Radio USACH](https://rusach-prontus.altavoz.cl/bernardita-ried-con-el-desarrollo-tecnologico-empezaron-los-errores-e-0)
+- [Bernardita Ried sobre Dark Energy Survey: “En Chile no se conocen mucho estos proyectos tan importantes. Me encantaría que la gente se entere más”](https://www.duna.cl/programa/nada-personal/2021/02/11/bernardita-ried-sobre-dark-energy-survey-en-chile-no-se-conocen-mucho-estos-proyectos-tan-importantes-me-encantaria-que-la-gente-se-entere-mas/)
 
 #### Mujeres en Ciencia
 
 - [Cada año hay más mujeres que estudian ciencias duras](https://www.litoralpress.cl/paginaconsultas/Servicios_NClip/Get_Imagen_Pagina.aspx?LPKey=.%C3%9C5.P2ib6h4tv6r7c.J.A.D.B.Wb.Vt.Pg.Jxeps4y.R.R.Pl.F.F.Zvh.T0.%C3%96)
+- [Día la Mujer y Niña en Ciencia: La búsqueda por disminuir brechas e investigaciones en el Universo](https://www.duna.cl/podcasts/dia-la-mujer-y-nina-en-ciencia-la-busqueda-por-disminuir-brechas-e-investigaciones-en-el-universo/)
+
