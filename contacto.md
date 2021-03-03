@@ -4,7 +4,7 @@ title: Contacto
 use-site-title: true
 ---
 
-- Correo: bernarditariedg@gmail.com
+- Correo: bernarditariedg at gmail dot com
 - Instagram: <https://www.instagram.com/bernarditaried/>
 
 
