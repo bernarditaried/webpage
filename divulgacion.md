@@ -4,6 +4,9 @@ title: Divulgación
 use-site-title: true
 ---
 
+#### Día de la Astronomía
+- [Contaminación Lumínica](https://www.youtube.com/watch?v=AFU7izp7iIw)
+
 #### Charlas Online:
 
 - [El comienzo de todo. El Big Bang](https://www.youtube.com/watch?v=lJV1Tpaq4RU&list=PLqY_wjz2QOQ9qERVsLZejP50xwjohLXIl&index=2)
