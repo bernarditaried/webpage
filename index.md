@@ -7,7 +7,7 @@ use-site-title: true
 ![](/img/Portrait3.jpg)
 
 
-Mi nombre es Bernardita Ried y soy curiosa por naturaleza. Tengo 23 años y actualmente estoy cursando un Magíster en Física en la Universidad de Chile porque amo aprender.
+Mi nombre es Bernardita Ried y soy curiosa por naturaleza. Tengo 24 años y actualmente estoy cursando un Magíster en Física en la Universidad de Chile porque amo aprender.
 
 - Quiero entender el cosmos mediante observaciones astronómicas y contrastarlas con los modelos teóricos.
 - Programo en Python, Matlab y Latex. Algún día en C++.
