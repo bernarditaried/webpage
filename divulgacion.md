@@ -11,9 +11,10 @@ use-site-title: true
 
 - [El comienzo de todo. El Big Bang](https://www.youtube.com/watch?v=lJV1Tpaq4RU&list=PLqY_wjz2QOQ9qERVsLZejP50xwjohLXIl&index=2)
 - [La Luz del Cosmos](https://www.facebook.com/121968331253612/videos/298155087987620)
-- [¿Qué es la gravedad?](https://www.youtube.com/watch?v=rSAcJOuvk6c&list=PLqY_wjz2QOQ9qERVsLZejP50xwjohLXIl&index=3)
 - [Recorrido por el Universo](https://www.youtube.com/watch?v=G6lXYn8GFkI&list=PL9sgFepmP9eNtSN4MWTd4UR-nwRdVUpZ8)
 - [Charla A ver, a ver… ¿Y qué hizo el tal Einstein que lo hace tan famoso?](https://www.youtube.com/watch?v=Osa_kkBFqk8)
+- [Lo que está pasando HOY en Marte](https://www.youtube.com/watch?v=HqcSFcAWX28&list=PLqY_wjz2QOQ-trrQ7LCk4T_V1CM6lROll&index=5&t=3s)
+- [La misteriosa materia oscura](https://www.youtube.com/watch?v=DQthHMQrOx4&list=PLqY_wjz2QOQ-trrQ7LCk4T_V1CM6lROll&index=6)
 
 
 #### Darkbites to Spanish:
