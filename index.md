@@ -29,6 +29,6 @@ También colaboro en [ALeRCE](http://alerce.science/) en el área de clasificaci
 #### Pasatiempos
 Me encanta tomar fotos (puedes ver mi selección), hablar, cocinar y despertarme temprano. Me gusta tomar café con leche antes de ir al estadio nacional, donde lanzo jabalina y entreno con la selección de mi universidad. Mi fruta favorita es el plátano.
 
-[¿Quieres escucharme dar una charla de divulgación?](https://www.facebook.com/centrodeastrofisicacata/videos/918578238632478)
+[¿Quieres escucharme dar una charla de divulgación?](https://www.youtube.com/watch?v=HqcSFcAWX28&list=PLqY_wjz2QOQ-trrQ7LCk4T_V1CM6lROll&index=5&t=1s)
 
 ##### Conceptos Clave: Cosmología, Astronomía, Física, Estadística, Feminismo, Atletismo, Educación, Divulgación
