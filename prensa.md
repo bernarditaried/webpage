@@ -31,7 +31,8 @@ use-site-title: true
 - [Eclipse 2020, medidas de seguridad y por qué son importantes los eclipses](https://www.youtube.com/watch?v=4OxwVjT3kCc&list=PLqY_wjz2QOQ9qERVsLZejP50xwjohLXIl&index=16)
 - [Por si te lo perdiste: Conoce la lista de los 10 próximos eclipses de Sol](https://www.futuro360.com/el-universo/por-si-te-lo-perdiste-conoce-la-lista-de-los-10-proximos-eclipses-de-sol_20201215/)
 - [El mapa más grande de materia oscura del Universo fue observado desde Chile](https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/astronomia/2021/01/25/el-mapa-mas-grande-de-materia-oscura-del-universo-fue-observado-desde-chile.shtml)
-
+- [Ingenuity se prepara para hacer su vuelo en Marte](https://www.youtube.com/watch?v=FzXDVeTkBGw)
+- [Chile referente mundial, Potencia Astronómica](https://www.youtube.com/watch?v=igk7bS1G8ec)
 
 #### Entrevistas
 
