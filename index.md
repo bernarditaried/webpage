@@ -26,6 +26,8 @@ Estoy interesada en usar observaciones cosmológicas para entender de mejor mane
 Actualmente investigo sobre priors planos en la conexión de las Galaxias con la Materia usando datos del [Dark Energy Survey (DES)](https://www.darkenergysurvey.org/). 
 También colaboro en [ALeRCE](http://alerce.science/) en el área de clasificación de Supernovas de tipo Ia.
 
+Actualmente soy miembro de [Dark Energy Science Colaboration (DESC)](https://lsstdesc.org/) del observatorio [Vera Rubin](https://www.lsst.org/).
+
 #### Pasatiempos
 Me encanta tomar fotos (puedes ver mi selección), hablar, cocinar y despertarme temprano. Me gusta tomar café con leche antes de ir al estadio nacional, donde lanzo jabalina y entreno con la selección de mi universidad. Mi fruta favorita es el plátano.
 
