@@ -15,15 +15,15 @@ Mi nombre es Bernardita Ried y soy curiosa por naturaleza. Tengo 24 años y actu
 - Cada día me doy cuenta que menos sé del mundo.
 - Amo ser mujer.
 
-#### [Currículum](https://drive.google.com/file/d/1Fd2nVReyQYUukcxggrxxXl_LXmVWqOju/view?usp=sharing) 
-Actualizado Diciembre 2020.
+#### [Currículum](https://drive.google.com/file/d/1LIpiKhVoo5GQX5UIp6qY22wrPEw10qJX/view?usp=sharing) 
+Actualizado Abril 2021.
 
 #### Grupo de Cosmología y Astrofísica Teórica
 Soy parte del grupo de [Cosmología y Astrofísica Teórica](http://www.dfi.uchile.cl/grupos-investigacion/cosmologia-y-astrofisica-teorica/) del [Departamento de Física](http://www.dfi.uchile.cl/) de la Universidad de Chile. Tenemos seminarios (+ cosmopizzas), journal clubs y más actividades. Si quieres puedes enviarme un correo para comunicarte con nosotr@s.
 
 #### Interés de Investigación
 Estoy interesada en usar observaciones cosmológicas para entender de mejor manera nuestro universo y así poder definir una teoría de la física fundamental más exacta. Para cumplir ese objetivo, constantemente estudio métodos estadísticos y nuevas herramientas de inteligencia artificial.
-Actualmente investigo sobre priors planos en la conexión de las Galaxias con la Materia usando datos del [Dark Energy Survey (DES)](https://www.darkenergysurvey.org/).
+Actualmente investigo sobre priors planos en la conexión de las Galaxias con la Materia usando datos del [Dark Energy Survey (DES)](https://www.darkenergysurvey.org/). 
 También colaboro en [ALeRCE](http://alerce.science/) en el área de clasificación de Supernovas de tipo Ia.
 
 #### Pasatiempos
