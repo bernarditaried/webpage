@@ -12,15 +12,6 @@ use-site-title: true
 - [Astrónomas chilenas: La misión de enseñar ciencia a niñas y niños](https://www.latercera.com/paula/astronomas-chilenas-la-mision-de-ensenar-ciencia-a-ninas-y-ninos/)
 - [FCFM te espera: Testimonio de Bernardita Ried, física y astrónoma](https://www.uchile.cl/multimedia/172024/fcfm-te-espera-testimonio-de-bernardita-ried-fisica-y-astronoma)
 
-#### Preu en Cuarentena:
-
-- [Estudiantes de la U. De Chile crean preuniversitario online y gratuito ](https://www.24horas.cl/nacional/estudiantes-de-la-u-de-chile-crean-preuniversitario-online-y-gratuito-4125330)
-- [Alumnos de U. de Chile crean preuniversitario online y gratuito para preparar prueba de matemáticas](https://www.biobiochile.cl/especial/e-learning/noticias/2020/04/24/alumnos-de-u-de-chile-crean-preuniversitario-online-y-gratuito-para-preparar-prueba-de-matematicas.shtml)
-- [Impulsora del proyecto ‘Preu En Cuarentena’: “Queremos dar material en francés y español para la comunidad haitiana”](https://www.duna.cl/programa/aire-fresco/2020/04/23/impulsora-del-proyecto-preu-en-cuarentena-queremos-dar-material-en-frances-y-espanol-para-la-comunidad-haitiana/)
-- [Universidad de Chile ofreció preuniversitario online y gratuito para rendir prueba de transición de matemáticas](https://www.adnradio.cl/cultura-y-educacion/2020/04/23/universidad-de-chile-ofrecio-preuniversitario-online-y-gratuito-para-rendir-prueba-de-transicion-de-matematicas.html)
-- [DIEZ HEROÍNAS DEL 2020](https://drive.google.com/file/d/18jX_8RFN02siE1J3oaJNw4yrHZM0H0F_/view?usp=sharing)
-
-
 #### Ciencia
 
 - [Confirman que hay agua en la superficie de la Luna](https://www.youtube.com/watch?v=55dlG3pwQO8)
@@ -33,6 +24,20 @@ use-site-title: true
 - [El mapa más grande de materia oscura del Universo fue observado desde Chile](https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/astronomia/2021/01/25/el-mapa-mas-grande-de-materia-oscura-del-universo-fue-observado-desde-chile.shtml)
 - [Ingenuity se prepara para hacer su vuelo en Marte](https://www.youtube.com/watch?v=FzXDVeTkBGw)
 - [Chile referente mundial, Potencia Astronómica](https://www.youtube.com/watch?v=igk7bS1G8ec)
+- [Ingenuity ya está en suelo marciano](https://www.youtube.com/watch?v=EbnhxufoKRc)
+- [Histórico: Por primera vez un aparato aéreo vuela en en Marte](https://www.youtube.com/watch?v=n0AYaCmoO1s)
+- [El increíble helicótpero que volará en Marte](https://www.youtube.com/watch?v=qeIUv9wI8QY)
+- [Misión China a horas de amartizar](https://www.youtube.com/watch?v=3_EFQo_dWzU)
+- [China hace historia con su primer robot en Marte](https://www.youtube.com/watch?v=fL0QhG4EaIE)
+
+#### Preu en Cuarentena:
+
+- [Estudiantes de la U. De Chile crean preuniversitario online y gratuito ](https://www.24horas.cl/nacional/estudiantes-de-la-u-de-chile-crean-preuniversitario-online-y-gratuito-4125330)
+- [Alumnos de U. de Chile crean preuniversitario online y gratuito para preparar prueba de matemáticas](https://www.biobiochile.cl/especial/e-learning/noticias/2020/04/24/alumnos-de-u-de-chile-crean-preuniversitario-online-y-gratuito-para-preparar-prueba-de-matematicas.shtml)
+- [Impulsora del proyecto ‘Preu En Cuarentena’: “Queremos dar material en francés y español para la comunidad haitiana”](https://www.duna.cl/programa/aire-fresco/2020/04/23/impulsora-del-proyecto-preu-en-cuarentena-queremos-dar-material-en-frances-y-espanol-para-la-comunidad-haitiana/)
+- [Universidad de Chile ofreció preuniversitario online y gratuito para rendir prueba de transición de matemáticas](https://www.adnradio.cl/cultura-y-educacion/2020/04/23/universidad-de-chile-ofrecio-preuniversitario-online-y-gratuito-para-rendir-prueba-de-transicion-de-matematicas.html)
+- [DIEZ HEROÍNAS DEL 2020](https://drive.google.com/file/d/18jX_8RFN02siE1J3oaJNw4yrHZM0H0F_/view?usp=sharing)
+
 
 #### Entrevistas
 
