@@ -1,4 +1,4 @@
-# --- General options --- #
+h# --- General options --- #
 
 # Name of website
 title: Bernardita Ried
@@ -21,7 +21,7 @@ author: Bernardita Ried Guachalla
 # List of links in the navigation bar
 navbar-links:
   # Sobre mi: "aboutme"
-  English Version: "Bernardita Ried"
+  English Version: "english"
   Eclipse 2020: "eclipse"
   Cosmología: "cosmologia"
   Educación:
