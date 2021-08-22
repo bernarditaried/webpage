@@ -2,7 +2,6 @@
 layout: page
 title: Bernardita Ried
 subtitle: Bachelor in Science, Astronomy Mention and Physics Mention
-use-site-title: true
 ---
 ![](/img/4.png)
 
