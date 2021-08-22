@@ -4,8 +4,9 @@ title: Bernardita Ried
 subtitle: Licenciada en Astronomía y Física
 use-site-title: true
 ---
-![](/img/Portrait3.jpg)
+![](/img/4.png)
 
+English version
 
 Mi nombre es Bernardita Ried y soy curiosa por naturaleza. Tengo 24 años y actualmente estoy cursando un Magíster en Física en la Universidad de Chile porque amo aprender.
 
