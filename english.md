@@ -3,7 +3,7 @@ layout: page
 title: Bernardita Ried
 subtitle: Bachelor in Science, Astronomy Mention and Physics Mention
 ---
-![](/img/4.png)
+![In this picture I am with my lovely friend Martin who's a physicist too!](/img/IMG_20210816_165622.jpg)
 
 My name is Bernardita Ried and I am curious by nature. I am 24 years old and I am currently pursuing a Master's degree in Physics at the University of Chile because I love learning.
 
