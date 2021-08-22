@@ -12,7 +12,7 @@ My name is Bernardita Ried and I am curious by nature. I am 24 years old and I a
 
 - I want to understand the cosmos through astronomical observations and contrast them with theoretical models.
 - I program in Python, Matlab and Latex. Someday in C++.
-- I am committed to science education and outreach. In April 2020 I founded a [free online pre-university website of mathematics](https://www.preuencuarentena.com/) because of the COVID19 pandemic and I am a popularizer of [CATA](http://www.cata.cl/).
+- I am committed to science education and outreach. In April 2020 I founded a [free online pre-university website of mathematics](https://www.preuencuarentena.com/) because of the COVID19 pandemic and I am a science communicator of [CATA](http://www.cata.cl/).
 - Every day I realize the less I know about the world.
 - I love being a woman.
 
@@ -20,7 +20,7 @@ My name is Bernardita Ried and I am curious by nature. I am 24 years old and I a
 Updated August 2021.
 
 #### Cosmology and Theoretical Astrophysics Group
-I am part of the [Cosmology and Theoretical Astrophysics](http://www.dfi.uchile.cl/grupos-investigacion/cosmologia-y-astrofisica-teorica/) group of the [Physics Department](http://www.dfi.uchile.cl/) of the University of Chile. We have seminars (+ cosmopizzas), journal clubs and more activities. Feel free send me an email to communicate with us.
+I am part of the [Cosmology and Theoretical Astrophysics group](http://www.dfi.uchile.cl/grupos-investigacion/cosmologia-y-astrofisica-teorica/) of the [Physics Department](http://www.dfi.uchile.cl/) of the University of Chile. We have seminars (+ cosmopizzas), journal clubs and more activities. Feel free send me an email to communicate with us.
 
 #### Research Interest
 I am interested in using cosmological observations to better understand our universe in order to define a more accurate theory of fundamental physics. To accomplish this goal, I am constantly studying statistical methods and new artificial intelligence tools.
@@ -30,7 +30,7 @@ I also collaborate in [ALeRCE](http://alerce.science/) in the area of Type Ia Su
 I am currently a member of the [Dark Energy Science Collaboration (DESC)](https://lsstdesc.org/) at the [Vera Rubin](https://www.lsst.org/) observatory.
 
 #### Hobbies
-I love taking pictures (you can see my [selection](http://bernarditaried.com/fotografia/)), talking, cooking and waking up early. I like to drink coffee with milk before going to the national stadium, where I throw javelin and train with my university team. My favorite fruit are bananas.
+I love taking pictures (you can see my [selection](http://bernarditaried.com/fotografia/)), talking, cooking and waking up early. I like to drink coffee with milk before going to the national stadium, where I throw javelin and train with my university team. My favorite fruit is banana.
 
 Feel free to email me: bernardita dot ried at ug dot uchile dot cl
 
