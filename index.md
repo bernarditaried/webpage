@@ -16,7 +16,7 @@ Mi nombre es Bernardita Ried y soy curiosa por naturaleza. Tengo 24 años y actu
 - Cada día me doy cuenta que menos sé del mundo.
 - Amo ser mujer.
 
-#### [Currículum Vitae](https://drive.google.com/file/d/1DOxxoBL9nLblMxSpcXMmIPNnAvL0wvqo/view?usp=sharing) 
+#### [Currículum Vitae](https://drive.google.com/file/d/1xGvQu031BOmTTzHunIa4L_RfLirJFTED/view?usp=sharing) 
 Actualizado Agosto 2021.
 
 #### Grupo de Cosmología y Astrofísica Teórica
