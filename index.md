@@ -6,7 +6,7 @@ use-site-title: true
 ---
 ![](/img/4.png)
 
-English version
+[English version](http://bernarditaried.com/english/)
 
 Mi nombre es Bernardita Ried y soy curiosa por naturaleza. Tengo 24 años y actualmente estoy cursando un Magíster en Física en la Universidad de Chile porque amo aprender.
 
