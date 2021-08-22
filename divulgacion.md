@@ -4,8 +4,8 @@ title: Divulgación
 use-site-title: true
 ---
 
-#### Día de la Astronomía
-- [Contaminación Lumínica](https://www.youtube.com/watch?v=AFU7izp7iIw)
+#### Noche Nerd en NTV
+- [Exoplanetas y Marte Capítulo 1](https://www.tvn.cl/ntv/nochesnerd/ultimoscapitulos/noches-nerd-exoplanetas-y-marte-capitulo-1-4912556)
 
 #### Charlas Online:
 
@@ -15,7 +15,7 @@ use-site-title: true
 - [Charla A ver, a ver… ¿Y qué hizo el tal Einstein que lo hace tan famoso?](https://www.youtube.com/watch?v=Osa_kkBFqk8)
 - [Lo que está pasando HOY en Marte](https://www.youtube.com/watch?v=HqcSFcAWX28&list=PLqY_wjz2QOQ-trrQ7LCk4T_V1CM6lROll&index=5&t=3s)
 - [La misteriosa materia oscura](https://www.youtube.com/watch?v=DQthHMQrOx4&list=PLqY_wjz2QOQ-trrQ7LCk4T_V1CM6lROll&index=6)
-- [Las expediciones a Marte y su Terraformación](https://www.facebook.com/unap.cl/videos/312559507169749)
+- [Las expediciones a Marte](https://www.facebook.com/unap.cl/videos/312559507169749)
 
 
 #### Darkbites to Spanish:
