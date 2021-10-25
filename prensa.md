@@ -29,6 +29,13 @@ use-site-title: true
 - [El increíble helicótpero que volará en Marte](https://www.youtube.com/watch?v=qeIUv9wI8QY)
 - [Misión China a horas de amartizar](https://www.youtube.com/watch?v=3_EFQo_dWzU)
 - [China hace historia con su primer robot en Marte](https://www.youtube.com/watch?v=fL0QhG4EaIE)
+- [Cometa Bernardinelli-Bernstein](https://www.youtube.com/watch?v=gIWTc5loFoA)
+- [Futuro360 Colisión de Agujero Negro y una Estrella de Neutrones](https://www.youtube.com/watch?v=xDJKc4jvp14)
+- [Japón quiere llegar a Fobos en 2024](https://www.youtube.com/watch?v=-Q8jFE1gYXk)
+- [Asteroide 2021 PH27](https://www.youtube.com/watch?v=9UmLw6ZV0l8)
+- [Perseverance toma primera muestra en Marte](https://www.youtube.com/watch?v=WAAquRRPpg8)
+- [Detectan anómalas ondas de radio desde el centro de la Vía Láctea](https://www.youtube.com/watch?v=sYugaiBzohM)
+
 
 #### Preu en Cuarentena:
 
