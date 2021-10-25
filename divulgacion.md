@@ -7,6 +7,10 @@ use-site-title: true
 #### Noche Nerd en NTV
 - [Exoplanetas y Marte Capítulo 1](https://www.tvn.cl/ntv/nochesnerd/ultimoscapitulos/noches-nerd-exoplanetas-y-marte-capitulo-1-4912556)
 
+#### Celebrity Nerd Match
+- [Arquímedes v/s Marie Curie](https://www.youtube.com/watch?v=5Nc4MVoEHbw)
+
+
 #### Charlas Online:
 
 - [El comienzo de todo. El Big Bang](https://www.youtube.com/watch?v=lJV1Tpaq4RU&list=PLqY_wjz2QOQ9qERVsLZejP50xwjohLXIl&index=2)
