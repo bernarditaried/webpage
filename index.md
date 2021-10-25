@@ -16,8 +16,8 @@ Mi nombre es Bernardita Ried y soy curiosa por naturaleza. Tengo 24 años y actu
 - Cada día me doy cuenta que menos sé del mundo.
 - Amo ser mujer.
 
-#### [Currículum Vitae](https://drive.google.com/file/d/1xGvQu031BOmTTzHunIa4L_RfLirJFTED/view?usp=sharing) 
-Actualizado Agosto 2021.
+#### [Currículum Vitae](https://drive.google.com/file/d/1Pp-WOo2PcWzBW4-RRxAYrNdkw1hteRXi/view?usp=sharing) 
+Actualizado Octubre 2021.
 
 #### Grupo de Cosmología y Astrofísica Teórica
 Soy parte del grupo de [Cosmología y Astrofísica Teórica](http://www.dfi.uchile.cl/grupos-investigacion/cosmologia-y-astrofisica-teorica/) del [Departamento de Física](http://www.dfi.uchile.cl/) de la Universidad de Chile. Tenemos seminarios (+ cosmopizzas), journal clubs y más actividades. Si quieres puedes enviarme un correo para comunicarte con nosotr@s.
