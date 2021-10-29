@@ -48,6 +48,38 @@ Chile es un territorio singular y con constantes sacudidas. Su desierto seco, a 
 ![](/img/fotografia/limari_8.JPG)
 
 
+#### Desierto
+
+![](/img/fotografia/des_1.JPG)
+
+![](/img/fotografia/des_2.JPG)
+
+![](/img/fotografia/des_3.JPG)
+
+![](/img/fotografia/des_4.JPG)
+
+![](/img/fotografia/des_5.JPG)
+
+![](/img/fotografia/des_6.JPG)
+
+![](/img/fotografia/des_7.JPG)
+
+![](/img/fotografia/des_8.JPG)
+
+![](/img/fotografia/des_9.JPG)
+
+![](/img/fotografia/des_10.JPG)
+
+![](/img/fotografia/des_11.JPG)
+
+![](/img/fotografia/des_12.JPG)
+
+![](/img/fotografia/des_13.JPG)
+
+![](/img/fotografia/des_14.JPG)
+
+
+
 
 ### Centro
 
