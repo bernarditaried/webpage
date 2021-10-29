@@ -122,39 +122,8 @@ Chile es un territorio singular. Su desierto seco, a veces florido, nos abre los
 
 ![](/img/fotografia/4_3.JPG)
 
-#### Japón
 
-![](/img/fotografia/5_2.JPG)
-
-![](/img/fotografia/5_3.JPG)
-
-![](/img/fotografia/5_4.JPG)
-
-![](/img/fotografia/5_5.JPG)
-
-![](/img/fotografia/5_6.JPG)
-
-![](/img/fotografia/5_7.JPG)
-
-![](/img/fotografia/5_8.JPG)
-
-![](/img/fotografia/5_9.JPG)
-
-![](/img/fotografia/9_1.JPG)
-
-![](/img/fotografia/9_2.JPG)
-
-#### Sur de Chile
-
-![](/img/fotografia/7_1.JPG)
-
-![](/img/fotografia/7_2.JPG)
-
-![](/img/fotografia/7_3.JPG)
-
-![](/img/fotografia/7_4.JPG)
-
-![](/img/fotografia/7_5.jpg)
+### Sur
 
 #### Chiloé
 
@@ -173,6 +142,29 @@ Chile es un territorio singular. Su desierto seco, a veces florido, nos abre los
 ![](/Fotografia/chiloe_7.JPG)
 
 ![](/Fotografia/chiloe_8.JPG)
+
+
+#### La Araucanía
+
+![](/img/fotografia/7_1.JPG)
+
+![](/img/fotografia/7_2.JPG)
+
+![](/img/fotografia/7_3.JPG)
+
+![](/img/fotografia/7_4.JPG)
+
+![](/img/fotografia/7_5.jpg)
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -195,7 +187,50 @@ Chile es un territorio singular. Su desierto seco, a veces florido, nos abre los
 
 ![](/img/fotografia/2_2.JPG)
 
-#### Russia 
+
+
+
+
+### Mundo
+
+
+#### Japón
+
+![](/img/fotografia/5_2.JPG)
+
+![](/img/fotografia/5_3.JPG)
+
+![](/img/fotografia/5_4.JPG)
+
+![](/img/fotografia/5_5.JPG)
+
+![](/img/fotografia/5_6.JPG)
+
+![](/img/fotografia/5_7.JPG)
+
+![](/img/fotografia/5_8.JPG)
+
+![](/img/fotografia/5_9.JPG)
+
+![](/img/fotografia/9_1.JPG)
+
+![](/img/fotografia/9_2.JPG)
+
+
+#### Rusia 
+
+![](/img/fotografia/rus_1.JPG)
+
+![](/img/fotografia/rus_2.JPG)
+
+![](/img/fotografia/rus_3.JPG)
+
+![](/img/fotografia/rus_4.JPG)
+
+![](/img/fotografia/rus_5.JPG)
+
+![](/img/fotografia/rus_6.JPG)
+
 
 
 
