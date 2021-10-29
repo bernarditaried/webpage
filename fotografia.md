@@ -176,10 +176,20 @@ Chile es un territorio singular y con constantes sacudidas. Su desierto seco, a 
 
 ![](/img/fotografia/lit_6.JPG)
 
+![](/img/fotografia/lit_7.JPG)
+
+![](/img/fotografia/lit_8.JPG)
+
 
 
 
 ### Sur
+
+#### Tamara
+
+![](/img/fotografia/tamara.JPG)
+
+
 
 #### Chiloé
 
@@ -235,7 +245,7 @@ Chile es un territorio singular y con constantes sacudidas. Su desierto seco, a 
 
 
 
-#### Paisajes
+### Paisajes
 
 ![](/img/fotografia/14_1.JPG)
 
