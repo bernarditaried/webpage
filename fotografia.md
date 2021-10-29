@@ -94,17 +94,13 @@ Chile es un territorio singular. Su desierto seco, a veces florido, nos abre los
 #### Perros de Santiago
 
 ![](/img/fotografia/4_1.JPG)
-
 ![](/img/fotografia/4_2.JPG)
-
 ![](/img/fotografia/4_3.JPG)
 
 #### Santiago
 
 ![](/img/fotografia/stgo_1.JPG)
-
 ![](/img/fotografia/stgo_2.JPG)
-
 ![](/img/fotografia/stgo_3.JPG)
 
 
@@ -113,33 +109,23 @@ Chile es un territorio singular. Su desierto seco, a veces florido, nos abre los
 #### Chiloé
 
 ![](/img/fotografia/chiloe_1.JPG)
-
 ![](/img/fotografia/chiloe_2.JPG)
-
 ![](/img/fotografia/chiloe_3.JPG)
-
 ![](/img/fotografia/chiloe_4.JPG)
-
 ![](/img/fotografia/chiloe_5.JPG)
-
 ![](/img/fotografia/chiloe_6.JPG)
-
 ![](/img/fotografia/chiloe_7.JPG)
-
 ![](/img/fotografia/chiloe_8.JPG)
 
 
 #### La Araucanía
 
 ![](/img/fotografia/7_1.JPG)
-
 ![](/img/fotografia/7_2.JPG)
-
 ![](/img/fotografia/7_3.JPG)
-
 ![](/img/fotografia/7_4.JPG)
-
 ![](/img/fotografia/7_5.jpg)
+![](/img/fotografia/arau.JPG)
 
 
 
