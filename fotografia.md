@@ -31,21 +31,14 @@ Chile es un territorio singular. Su desierto seco, a veces florido, nos abre los
 
 #### Tongoy
 
-![](/Fotografia/limari_1.JPG)
-
-![](/Fotografia/limari_2.JPG)
-
-![](/Fotografia/limari_3.JPG)
-
-![](/Fotografia/limari_4.JPG)
-
-![](/Fotografia/limari_5.JPG)
-
-![](/Fotografia/limari_6.JPG)
-
-![](/Fotografia/limari_7.JPG)
-
-![](/Fotografia/limari_8.JPG)
+![](/img/fotografia/limari_1.JPG)
+![](/img/fotografia/limari_2.JPG)
+![](/img/fotografia/limari_3.JPG)
+![](/img/fotografia/limari_4.JPG)
+![](/img/fotografia/limari_5.JPG)
+![](/img/fotografia/limari_6.JPG)
+![](/img/fotografia/limari_7.JPG)
+![](/img/fotografia/limari_8.JPG)
 
 
 
@@ -71,47 +64,31 @@ Chile es un territorio singular. Su desierto seco, a veces florido, nos abre los
 
 ![](/img/fotografia/10_4.JPG)
 
-![](/Fotografia/rev_1.JPG)
-
-![](/Fotografia/rev_2.JPG)
-
-![](/Fotografia/rev_3.JPG)
-
-![](/Fotografia/rev_4.JPG)
-
-![](/Fotografia/rev_5.JPG)
-
-![](/Fotografia/rev_6.JPG)
+![](/img/fotografia/rev_1.JPG)
+![](/img/fotografia/rev_2.JPG)
+![](/img/fotografia/rev_3.JPG)
+![](/img/fotografia/rev_4.JPG)
+![](/img/fotografia/rev_5.JPG)
+![](/img/fotografia/rev_6.JPG)
 
 #### 8M 2020
 
-![](/Fotografia/8M_1.JPG)
-
-![](/Fotografia/8M_2.JPG)
-
-![](/Fotografia/8M_3.JPG)
-
-![](/Fotografia/8M_4.JPG)
-
-![](/Fotografia/8M_5.JPG)
-
-![](/Fotografia/8M_6.JPG)
-
-![](/Fotografia/8M_7.JPG)
+![](/img/fotografia/8M_1.JPG)
+![](/img/fotografia/8M_2.JPG)
+![](/img/fotografia/8M_3.JPG)
+![](/img/fotografia/8M_4.JPG)
+![](/img/fotografia/8M_5.JPG)
+![](/img/fotografia/8M_6.JPG)
+![](/img/fotografia/8M_7.JPG)
 
 #### Movilización estudiantil feminista 2018
 
-![](/Fotografia/fem_1.JPG)
-
-![](/Fotografia/fem_2.JPG)
-
-![](/Fotografia/fem_3.JPG)
-
-![](/Fotografia/fem_4.JPG)
-
-![](/Fotografia/fem_5.JPG)
-
-![](/Fotografia/fem_6.JPG)
+![](/img/fotografia/fem_1.JPG)
+![](/img/fotografia/fem_2.JPG)
+![](/img/fotografia/fem_3.JPG)
+![](/img/fotografia/fem_4.JPG)
+![](/img/fotografia/fem_5.JPG)
+![](/img/fotografia/fem_6.JPG)
 
 
 #### Perros de Santiago
@@ -122,26 +99,34 @@ Chile es un territorio singular. Su desierto seco, a veces florido, nos abre los
 
 ![](/img/fotografia/4_3.JPG)
 
+#### Santiago
+
+![](/img/fotografia/stgo_1.JPG)
+
+![](/img/fotografia/stgo_2.JPG)
+
+![](/img/fotografia/stgo_3.JPG)
+
 
 ### Sur
 
 #### Chiloé
 
-![](/Fotografia/chiloe_1.JPG)
+![](/img/fotografia/chiloe_1.JPG)
 
-![](/Fotografia/chiloe_2.JPG)
+![](/img/fotografia/chiloe_2.JPG)
 
-![](/Fotografia/chiloe_3.JPG)
+![](/img/fotografia/chiloe_3.JPG)
 
-![](/Fotografia/chiloe_4.JPG)
+![](/img/fotografia/chiloe_4.JPG)
 
-![](/Fotografia/chiloe_5.JPG)
+![](/img/fotografia/chiloe_5.JPG)
 
-![](/Fotografia/chiloe_6.JPG)
+![](/img/fotografia/chiloe_6.JPG)
 
-![](/Fotografia/chiloe_7.JPG)
+![](/img/fotografia/chiloe_7.JPG)
 
-![](/Fotografia/chiloe_8.JPG)
+![](/img/fotografia/chiloe_8.JPG)
 
 
 #### La Araucanía
