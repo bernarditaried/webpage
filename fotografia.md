@@ -156,11 +156,11 @@ Chile es un territorio singular y con constantes sacudidas. Su desierto seco, a 
 
 #### Santiago
 
-![](/img/fotografia/stgo_1.JPG)
+![](/img/fotografia/stgo_1.jpg)
 
-![](/img/fotografia/stgo_2.JPG)
+![](/img/fotografia/stgo_2.jpg)
 
-![](/img/fotografia/stgo_3.JPG)
+![](/img/fotografia/stgo_3.jpg)
 
 #### El litoral
 
