@@ -126,3 +126,8 @@ Esta es una selección de fotografías que he tomado utilizando cámaras análog
 ![](/img/fotografia/2_1.JPG)
 
 ![](/img/fotografia/2_2.JPG)
+
+#### Russia 
+
+
+
