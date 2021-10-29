@@ -31,9 +31,7 @@ Esta es una selección de fotografías que he tomado utilizando cámaras análog
 
 ![](/img/fotografia/4_3.JPG)
 
-#### Japón Análogo
-
-![](/img/fotografia/5_1.JPG)
+#### Japón
 
 ![](/img/fotografia/5_2.JPG)
 
@@ -86,6 +84,35 @@ Esta es una selección de fotografías que he tomado utilizando cámaras análog
 ![](/img/fotografia/10_3.JPG)
 
 ![](/img/fotografia/10_4.JPG)
+
+![](/img/fotografia/rev_1.JPG)
+
+![](/img/fotografia/rev_2.JPG)
+
+![](/img/fotografia/rev_3.JPG)
+
+![](/img/fotografia/rev_4.JPG)
+
+![](/img/fotografia/rev_5.JPG)
+
+![](/img/fotografia/rev_6.JPG)
+
+#### 8M 2020
+
+![](/img/fotografia/8M_1.JPG)
+
+![](/img/fotografia/8M_2.JPG)
+
+![](/img/fotografia/8M_3.JPG)
+
+![](/img/fotografia/8M_4.JPG)
+
+![](/img/fotografia/8M_5.JPG)
+
+![](/img/fotografia/8M_6.JPG)
+
+![](/img/fotografia/8M_7.JPG)
+
 
 
 #### Paisajes
