@@ -19,7 +19,7 @@ Esta es una selección de fotografías que he tomado utilizando cámaras análog
 
 ## Chile
 
-Chile es un territorio singular y con constantes sacudidas. Su desierto seco, a veces florido, nos abre los ojos al cielo y a mis sueños. En el centro está Santiago, donde crecí. Esta capital refleja la desigualdad y la lucha entre clases. Su gente y sus perros callejeros delatan la pobreza, la contaminación y la rabia. El sur aparece como un respiro, donde los ríos y lagos abundan y alimentan nuestra sed de paz. Sin embargo, es una tierra violada, como todo el territorio, y sus habitantes milenarios sueñan con vivir en armonía. Encontraremos la calma de seguro, y con mis lentes espero captar lo que se vive.
+Chile es un territorio singular y con constantes sacudidas. Su desierto seco, a veces florido, nos abre los ojos al cielo y a mis sueños. En el centro está Santiago, donde crecí. Esta capital refleja la desigualdad y la lucha entre clases. Su gente y sus perros callejeros delatan la pobreza, la contaminación y la rabia. El sur aparece como un respiro, donde los ríos y lagos abundan y alimentan nuestra sed de paz. Sin embargo, es una tierra con tanta violencia, donde sus habitantes milenarios y recientes sueñan con vivir en armonía y con reparación. Encontraremos la calma, de seguro, y con mis lentes espero captar las esencias de lo que se siente vivir en mi país.
 
 ### Norte
 
@@ -162,6 +162,21 @@ Chile es un territorio singular y con constantes sacudidas. Su desierto seco, a 
 
 ![](/img/fotografia/stgo_3.JPG)
 
+#### El litoral
+
+![](/img/fotografia/lit_1.JPG)
+
+![](/img/fotografia/lit_2.JPG)
+
+![](/img/fotografia/lit_3.JPG)
+
+![](/img/fotografia/lit_4.JPG)
+
+![](/img/fotografia/lit_5.JPG)
+
+![](/img/fotografia/lit_6.JPG)
+
+
 
 
 ### Sur
@@ -237,6 +252,8 @@ Chile es un territorio singular y con constantes sacudidas. Su desierto seco, a 
 
 
 ### Mundo
+
+La ciencia me ha permitido llegar a lugares implensables. He logrado ver rostros en los otros y sentir culturas a flor de piel. Cada vez que piso tierras lejanas, siento que dejo de ser algo ignorante y me conozco aún más.
 
 
 #### Japón
