@@ -17,8 +17,8 @@ Actualmente estoy liderando un estudio en el que replanteamos la manera de hacer
 - Programo en Python, Matlab y Latex. Algún día en C++.
 - Estoy comprometida con la educación y la divulgación científica. En Abril de 2020 fundé un [preuniversitario online gratuito de matemáticas](https://www.preuencuarentena.com/) por la pandemia del COVID19 y soy divulgadora científica del [CATA](http://www.cata.cl/).
 
-#### [Currículum Vitae](https://drive.google.com/file/d/1Pp-WOo2PcWzBW4-RRxAYrNdkw1hteRXi/view?usp=sharing) 
-Actualizado Octubre 2021.
+#### [Currículum Vitae](https://drive.google.com/file/d/16Vi_7CYLDIeZBbe1J_8b1qf05H_IGout/view?usp=sharing) 
+Actualizado Diciembre 2021.
 
 #### Grupo de Cosmología y Astrofísica Teórica
 Soy parte del grupo de [Cosmología y Astrofísica Teórica](http://www.dfi.uchile.cl/grupos-investigacion/cosmologia-y-astrofisica-teorica/) del [Departamento de Física](http://www.dfi.uchile.cl/) de la Universidad de Chile. Tenemos seminarios (+ cosmopizzas), journal clubs y más actividades. Si quieres puedes enviarme un correo para comunicarte con nosotros.
