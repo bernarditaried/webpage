@@ -10,7 +10,7 @@ use-site-title: true
 
 ¡Hola! Soy una astrónoma y física que le interesa aplicar métodos estadísticos y de inteligencia artificial a observaciones cosmológicas. En este momento, soy estudiante  del Magíster en física en la Universidad de Chile (Domenico Sapone es mi profesor guía) y una Program Student en la Universidad de Munich (actualmente estoy visitando al grupo de Daniel Gruen en USM). He obtenido una beca Fulbright para continuar mis estudios de Doctorado en EEUU.
 
-\textit{ITEM Priors:}
+##### ITEM Priors:
 Actualmente estoy liderando un estudio en el que replanteamos la manera de hacer inferencia estadística producto de el Prior Volume effect. Estamos validando el pipeline utilizando galaxias simuladas por DESY1 para mejorar la conexión entre la materia visible y la materia oscura. Producto de un problema con los datos, esperamos hacer nuestros resultados públicos en Enero de 2022.
 
 - Quiero entender el cosmos mediante observaciones astronómicas y contrastarlas con los modelos teóricos.
