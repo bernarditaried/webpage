@@ -22,13 +22,14 @@ author: Bernardita Ried Guachalla
 navbar-links:
   # Sobre mi: "aboutme"
   English Version: "english"
-  Eclipse 2020: "eclipse"
-  Cosmología: "cosmologia"
-  Educación:
-    - Preu en Cuarentena: "https://www.preuencuarentena.com"
+  Research:
     - ZigZAG Sampling: "https://github.com/bernarditaried/ZigZag-Sampling-Tutorial"
-  Divulgación: "divulgacion"
-  Prensa: "prensa"
+    - German Tank Problem: 
+  Preu en Cuarentena: "https://www.preuencuarentena.com"
+  Divulgación: 
+    - Eclipse 2020: "eclipse"
+    - Divulgación: "divulgacion"
+    - Prensa: "prensa"
   Fotografía: "fotografia"
   Contacto: "contacto"
 
