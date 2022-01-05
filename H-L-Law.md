@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hubble-Lemaitre Law Tutorial
+title: tutorial
 use-site-title: true
 ---
 
