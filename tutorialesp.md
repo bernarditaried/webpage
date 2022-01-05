@@ -19,4 +19,4 @@ Hoy en día, el valor estimado de la constante de Hubble difiere en un factor de
 
 Hubble utilizó una regresión lineal de mínimos cuadrados sobre 24 mediciones de distancias y velocidades de recesión de galaxias. En este tutorial, reproduciremos esos resultados y presentaremos el método de los mínimos cuadrados.
 
-Tutorial en Github: https://github.com/bernarditaried/Hubble-Lemaitre-Law
+[¡Te invito a ver mi código en mi página de Github!](https://github.com/bernarditaried/Hubble-Lemaitre-Law)
