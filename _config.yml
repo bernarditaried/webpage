@@ -22,10 +22,11 @@ author: Bernardita Ried Guachalla
 navbar-links:
   # Sobre mi: "aboutme"
   English Version: "english"
-  Research:
+  Research/Investigación:
     - ZigZAG Sampling: "https://github.com/bernarditaried/ZigZag-Sampling-Tutorial"
     - German Tank Problem: 
     - Hubble-Lemaitre Law Tutorial: "tutorial"
+    - Tutorial Ley Hubble-Lemaitre: "tutorialesp"
   Preu en Cuarentena: "https://www.preuencuarentena.com"
   Divulgación: 
     - Eclipse 2020: "eclipse"
