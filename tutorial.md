@@ -1,12 +1,14 @@
 ---
 layout: page
-title: tutorial
+title: Hubble-Lemaitre Law Tutorial
 use-site-title: true
 ---
 
 Hi!
 
 I recorded myself and did a tutorial about the Hubble-Lemaitre Law and Least Square estimate.
+
+[![Youtube Link](img/youtube_Hubble_english.png)](https://www.youtube.com/watch?v=A1EIhHgserE)
 
 
 At the end of the 1920s, both Edwin Hubble and Georges Lemaître discovered that galaxies farther away from us would move faster than nearby galaxies. They derived a linear relationship between the recession velocity and the distance from us.
