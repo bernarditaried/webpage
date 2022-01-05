@@ -19,4 +19,4 @@ Nowadays, the estimated value for Hubble constant differs in a factor of 9 and 7
 
 Hubble used a least square linear regression on 24 measurements of distances and recessional velocities of galaxies. In this tutorial, we will reproduce those results and introduce the least squares method.
 
-Github tutorial: https://github.com/bernarditaried/Hubble-Lemaitre-Law
+[I invite you to see the code at my Github page!](https://github.com/bernarditaried/Hubble-Lemaitre-Law)
