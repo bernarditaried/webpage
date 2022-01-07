@@ -68,3 +68,5 @@ Chile es un territorio singular y con constantes sacudidas. Su desierto seco, a 
 ![](/Fotografía/n_2.jpg)
 
 ![](/Fotografía/n_3.jpg)
+
+![](/Fotografía/n_4.jpg)
