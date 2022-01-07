@@ -31,7 +31,7 @@ Chile es un territorio singular y con constantes sacudidas. Su desierto seco, a 
 ![](/img/fotografia/limari_8.JPG)
 
 
-#### Desierto
+#### Valle del Limarí
 
 ![](/img/fotografia/des_1.JPG)
 
@@ -61,3 +61,10 @@ Chile es un territorio singular y con constantes sacudidas. Su desierto seco, a 
 
 ![](/img/fotografia/des_14.JPG)
 
+#### Humberstone
+
+![](/Fotografía/n_1.jpg)
+
+![](/Fotografía/n_2.jpg)
+
+![](/Fotografía/n_3.jpg)
