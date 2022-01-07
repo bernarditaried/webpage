@@ -33,11 +33,10 @@ navbar-links:
     - Divulgación: "divulgacion"
     - Prensa: "prensa"
   Fotografía: 
-    - Chile: 
-      - Protesta: "protesta"
-      - Norte: "norte"
-      - Centro: "centro"
-      - Sur: "sur"
+    - Chile Protesta: "protesta"
+    - Chile Norte: "norte"
+    - Chile Centro: "centro"
+    - Chile Sur: "sur"
     - Asia: "asia"
     - Europa: "europa"
     - Revelado Manual: "reveladomanual"
