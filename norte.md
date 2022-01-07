@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chile
+title: Norte
 use-site-title: true
 ---
 
