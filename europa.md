@@ -4,9 +4,6 @@ title: Europa
 use-site-title: true
 ---
 
-
-### Europa
-
 La ciencia me ha permitido llegar a lugares implensables. He logrado ver rostros en los otros y sentir culturas a flor de piel. Cada vez que piso tierras lejanas, siento que dejo de ser algo ignorante y me conozco aún más.
 
 #### Alemania
