@@ -63,10 +63,10 @@ Chile es un territorio singular y con constantes sacudidas. Su desierto seco, a 
 
 #### Humberstone
 
-![](/Fotografía/n_1.jpg)
+![](/img/fotografia/n_1.jpg)
 
-![](/Fotografía/n_2.jpg)
+![](/img/fotografia/n_2.jpg)
 
-![](/Fotografía/n_3.jpg)
+![](/img/fotografia/n_3.jpg)
 
-![](/Fotografía/n_4.jpg)
+![](/img/fotografia/n_4.jpg)
