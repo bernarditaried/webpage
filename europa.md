@@ -75,30 +75,30 @@ La ciencia me ha permitido llegar a lugares implensables. He logrado ver rostros
 
 #### Toulouse
 
-![](/img/fotografia/f_1.JPG)
+![](/img/fotografia/f_1.jpg)
 
-![](/img/fotografia/f_2.JPG)
+![](/img/fotografia/f_2.jpg)
 
-![](/img/fotografia/f_3.JPG)
+![](/img/fotografia/f_3.jpg)
 
-![](/img/fotografia/f_4.JPG)
+![](/img/fotografia/f_4.jpg)
 
-![](/img/fotografia/f_5.JPG)
+![](/img/fotografia/f_5.jpg)
 
 
 ### Barcelona
 
-![](/img/fotografia/e_1.JPG)
+![](/img/fotografia/e_1.jpg)
 
-![](/img/fotografia/e_2.JPG)
+![](/img/fotografia/e_2.jpg)
 
-![](/img/fotografia/e_3.JPG)
+![](/img/fotografia/e_3.jpg)
 
-![](/img/fotografia/e_4.JPG)
+![](/img/fotografia/e_4.jpg)
 
-![](/img/fotografia/e_5.JPG)
+![](/img/fotografia/e_5.jpg)
 
-![](/img/fotografia/e_6.JPG)
+![](/img/fotografia/e_6.jpg)
 
 ### Rusia 
 
