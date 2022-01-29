@@ -100,6 +100,37 @@ La ciencia me ha permitido llegar a lugares implensables. He logrado ver rostros
 
 ![](/img/fotografia/e_6.jpg)
 
+![](/img/bar_1.jpg)
+
+![](/img/bar_2.jpg)
+
+![](/img/bar_3.jpg)
+
+![](/img/bar_4.jpg)
+
+### Italia
+
+#### Milán
+
+![](/img/mil_1.jpg)
+
+![](/img/mil_2.jpg)
+
+![](/img/mil_3.jpg)
+
+![](/img/mil_4.jpg)
+
+![](/img/mil_5.jpg)
+
+![](/img/mil_6.jpg)
+
+![](/img/mil_7.jpg)
+
+![](/img/mil_8.jpg)
+
+![](/img/mil_9.jpg)
+
+
 ### Rusia 
 
 ![](/img/fotografia/rus_1.JPG)
