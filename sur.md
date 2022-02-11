@@ -16,23 +16,11 @@ Chile es un territorio singular y con constantes sacudidas. Su desierto seco, a 
 
 #### Chiloé
 
-![](/img/fotografia/chiloe_1.JPG)
-
-![](/img/fotografia/chiloe_2.JPG)
-
 ![](/img/fotografia/chiloe_3.JPG)
 
 ![](/img/fotografia/chiloe_4.JPG)
 
 ![](/img/fotografia/chiloe_5.JPG)
-
-![](/img/fotografia/chiloe_6.JPG)
-
-![](/img/fotografia/chiloe_7.JPG)
-
-![](/img/fotografia/chiloe_8.JPG)
-
-![](/img/fotografia/15_2.JPG)
 
 
 
