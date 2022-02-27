@@ -4,6 +4,10 @@ title: Protesta
 use-site-title: true
 ---
 
+“Hay tres tipos de violencia. La primera, madre de todas las demás, es la violencia institucional, la que legaliza y perpetúa las dominaciones, las opresiones y las explotaciones, la que aplasta y cercena a millones de hombres y mujeres en sus engranajes silenciosos y bien engrasados. La segunda es la violencia revolucionaria, que nace de la voluntad de abolir la primera. La tercera es la violencia represiva que tiene por objetivo asfixiar a la segunda haciéndose cómplice y auxiliar de la primera violencia, la que engendra todas las demás. No hay peor hipocresía que llamar violencia solo a la segunda fingiendo olvidar la primera, que la hace nacer, y la tercera que la mata”. 
+
+Dom Hélder Cámara (1909-1999)
+
 #### Revolución Social Chile 2019
 
 ![](/img/fotografia/8_1.JPG)
