@@ -18,8 +18,6 @@ La ciencia me ha permitido llegar a lugares implensables. He logrado ver rostros
 
 ![](/img/fotografia/g_6.jpg)
 
-![](/img/fotografia/g_7.jpg)
-
 ![](/img/fotografia/g_8.jpg)
 
 ![](/img/fotografia/g_9.jpg)
