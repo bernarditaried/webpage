@@ -16,6 +16,8 @@ Chile es un territorio singular y con constantes sacudidas. Su desierto seco, a 
 
 ![](/img/fotografia/stgo_3.jpg)
 
+![](/img/fotografia/stgo_4.jpg)
+
 #### Perros de Santiago
 
 ![](/img/fotografia/4_1.JPG)
@@ -24,6 +26,17 @@ Chile es un territorio singular y con constantes sacudidas. Su desierto seco, a 
 
 ![](/img/fotografia/4_3.JPG)
 
+#### Museo Bellas Artes de Santiago
+
+![](/img/fotografia/bellas_artes_1.jpg)
+
+![](/img/fotografia/bellas_artes_2.jpg)
+
+#### Sana sana, potito de rana
+
+![](/img/fotografia/sana_1.jpg)
+
+![](/img/fotografia/sana_2.jpg)
 
 #### El litoral
 
