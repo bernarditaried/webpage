@@ -14,7 +14,7 @@ Chile es un territorio singular y con constantes sacudidas. Su desierto seco, a 
 
 
 
-#### Chiloé
+#### Chiloé 2017
 
 ![](/img/fotografia/chiloe_3.JPG)
 
@@ -22,6 +22,26 @@ Chile es un territorio singular y con constantes sacudidas. Su desierto seco, a 
 
 ![](/img/fotografia/chiloe_5.JPG)
 
+
+#### Chiloé 2021
+
+![](/img/fotografia/chiloe_2021_1.jpg)
+
+![](/img/fotografia/chiloe_2021_2.jpg)
+
+![](/img/fotografia/chiloe_2021_3.jpg)
+
+![](/img/fotografia/chiloe_2021_4.jpg)
+
+![](/img/fotografia/chiloe_2021_5.jpg)
+
+![](/img/fotografia/chiloe_2021_6.jpg)
+
+![](/img/fotografia/chiloe_2021_7.jpg)
+
+![](/img/fotografia/chiloe_2021_8.jpg)
+
+![](/img/fotografia/chiloe_2021_9.jpg)
 
 
 #### La Araucanía
