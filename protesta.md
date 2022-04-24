@@ -55,7 +55,7 @@ Dom Hélder Cámara (1909-1999)
 
 ![](/img/fotografia/tesis.JPG)
 
-#### 8M 2020
+#### 8M 2020 Minolta
 
 ![](/img/fotografia/8M_1.JPG)
 
@@ -70,6 +70,17 @@ Dom Hélder Cámara (1909-1999)
 ![](/img/fotografia/8M_6.JPG)
 
 ![](/img/fotografia/8M_7.JPG)
+
+#### 8M 2020 Cmena
+
+![](/img/fotografia/8M_8.jpg)
+
+![](/img/fotografia/8M_9.jpg)
+
+![](/img/fotografia/8M_10.jpg)
+
+![](/img/fotografia/8M_11.jpg)
+
 
 #### Movilización estudiantil feminista 2018
 
