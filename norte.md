@@ -12,6 +12,11 @@ Chile es un territorio singular y con constantes sacudidas. Su desierto seco, a 
 
 ![](/img/fotografia/3_2.JPG)
 
+#### Mamalluca
+
+![](/img/fotografia/Mamalluca.jpg)
+
+
 #### Tongoy
 
 ![](/img/fotografia/limari_1.JPG)
