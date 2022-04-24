@@ -38,7 +38,7 @@ La ciencia me ha permitido llegar a lugares implensables. He logrado ver rostros
 
 ![](/img/fotografia/seattle_8.jpg)
 
-#### Russia out of Ukraine
+#### End the US blockade of Cuba
 
 ![](/img/fotografia/seattle_9.jpg)
 
