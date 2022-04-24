@@ -38,7 +38,13 @@ Dom Hélder Cámara (1909-1999)
 
 ![](/img/fotografia/rev_5.JPG)
 
+#### Las Tesis
+
 ![](/img/fotografia/rev_6.JPG)
+
+![](/img/fotografia/tesis2.JPG)
+
+![](/img/fotografia/tesis.JPG)
 
 #### 8M 2020
 
