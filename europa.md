@@ -72,6 +72,12 @@ La ciencia me ha permitido llegar a lugares implensables. He logrado ver rostros
 
 ![](/img/jb_5.jpg)
 
+![](/img/jb_6.jpg)
+
+![](/img/jb_7.jpg)
+
+![](/img/jb_8.jpg)
+
 #### Museo Alemán de Munich
 
 ![](/img/c_1.jpg)
