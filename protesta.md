@@ -8,6 +8,15 @@ use-site-title: true
 
 Dom Hélder Cámara (1909-1999)
 
+#### Santiago cansado 2022
+
+![](/img/fotografia/cansado_1.jpg)
+
+![](/img/fotografia/cansado_2.jpg)
+
+![](/img/fotografia/cansado_3.jpg)
+
+
 #### Revolución Social Chile 2019
 
 ![](/img/fotografia/8_1.JPG)
