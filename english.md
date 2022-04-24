@@ -8,7 +8,7 @@ subtitle: MSc in Physics Candidate
 In this picture I am with my lovely friend Martin in our graduation! I am holding my two degrees <3 
 
 
-Hi! I am an astronomer and physicist interested in applying statistical and artificial intelligence methods to cosmological observations. At the moment, I am a Master student in physics at the University of Chile (Domenico Sapone is my advisor) and a Program Student at the University of Munich (I am currently visiting Daniel Gruen's group at USM). I have obtained a Fulbright scholarship to continue my PhD studies at the US.
+Hi! I am an astronomer and physicist interested in applying statistical and artificial intelligence methods to cosmological observations. At the moment, I am a Master student in physics at the University of Chile (Domenico Sapone is my advisor) and a Program Student at the University of Munich (I am currently visiting Daniel Gruen's group at USM). I have obtained a Fulbright scholarship to continue my PhD studies at the US. In September 2022 I will start a PhD in Physics (mention in Astrophysics) at Stanford University.
 
 ##### ITEM Priors
 I am currently leading a research in which we are rethinking the way we do statistical inference due to the an effect called Prior Volume effect. We are validating the pipeline using simulations from DESY1 to improve the connection between galaxies and matter. Due to a problem with the data, we expect to make our results public in January 2022.
