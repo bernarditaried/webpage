@@ -32,13 +32,13 @@ La ciencia me ha permitido llegar a lugares implensables. He logrado ver rostros
 
 ![](/img/munich_3.jpg)
 
-![](/img/munich_4.jpg)
+![](/img/fotografia/munich_4.jpg)
 
-![](/img/munich_5.jpg)
+![](/img/fotografia/munich_5.jpg)
 
-![](/img/munich_6.jpg)
+![](/img/fotografia/munich_6.jpg)
 
-![](/img/munich_7.jpg)
+![](/img/fotografia/munich_7.jpg)
 
 #### Gliptoteca de Munich
 
@@ -48,9 +48,9 @@ La ciencia me ha permitido llegar a lugares implensables. He logrado ver rostros
 
 ![](/img/greek_3.jpg)
 
-![](/img/greek_4.jpg)
+![](/img/fotografia/greek_4.jpg)
 
-![](/img/greek_5.jpg)
+![](/img/fotografia/greek_5.jpg)
 
 #### Pinacoteca Moderna de Munich
 
@@ -62,21 +62,21 @@ La ciencia me ha permitido llegar a lugares implensables. He logrado ver rostros
 
 #### Jardín Botánico de Munich
 
-![](/img/jb_1.jpg)
+![](/img/fotografia/jb_1.jpg)
 
-![](/img/jb_2.jpg)
+![](/img/fotografia/jb_2.jpg)
 
-![](/img/jb_3.jpg)
+![](/img/fotografia/jb_3.jpg)
 
-![](/img/jb_4.jpg)
+![](/img/fotografia/jb_4.jpg)
 
-![](/img/jb_5.jpg)
+![](/img/fotografia/jb_5.jpg)
 
-![](/img/jb_6.jpg)
+![](/img/fotografia/jb_6.jpg)
 
-![](/img/jb_7.jpg)
+![](/img/fotografia/jb_7.jpg)
 
-![](/img/jb_8.jpg)
+![](/img/fotografia/jb_8.jpg)
 
 #### Museo Alemán de Munich
 
