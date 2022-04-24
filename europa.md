@@ -18,8 +18,6 @@ La ciencia me ha permitido llegar a lugares implensables. He logrado ver rostros
 
 ![](/img/fotografia/g_6.jpg)
 
-![](/img/fotografia/g_8.jpg)
-
 ![](/img/fotografia/g_9.jpg)
 
 #### Munich
@@ -34,6 +32,14 @@ La ciencia me ha permitido llegar a lugares implensables. He logrado ver rostros
 
 ![](/img/munich_3.jpg)
 
+![](/img/munich_4.jpg)
+
+![](/img/munich_5.jpg)
+
+![](/img/munich_6.jpg)
+
+![](/img/munich_7.jpg)
+
 #### Gliptoteca de Munich
 
 ![](/img/greek_1.jpg)
@@ -42,6 +48,10 @@ La ciencia me ha permitido llegar a lugares implensables. He logrado ver rostros
 
 ![](/img/greek_3.jpg)
 
+![](/img/greek_4.jpg)
+
+![](/img/greek_5.jpg)
+
 #### Pinacoteca Moderna de Munich
 
 ![](/img/pin_1.jpg)
@@ -49,6 +59,18 @@ La ciencia me ha permitido llegar a lugares implensables. He logrado ver rostros
 ![](/img/pin_2.jpg)
 
 ![](/img/pin_3.jpg)
+
+#### Jardín Botánico de Munich
+
+![](/img/jb_1.jpg)
+
+![](/img/jb_2.jpg)
+
+![](/img/jb_3.jpg)
+
+![](/img/jb_4.jpg)
+
+![](/img/jb_5.jpg)
 
 #### Museo Alemán de Munich
 
@@ -67,6 +89,23 @@ La ciencia me ha permitido llegar a lugares implensables. He logrado ver rostros
 ![](/img/5_c_2.jpg)
 
 ![](/img/5_c_3.jpg)
+
+#### Dachau
+
+![](/img/fotografia/dachau_5.jpg)
+
+![](/img/fotografia/dachau_7.jpg)
+
+![](/img/fotografia/dachau_1.jpg)
+
+![](/img/fotografia/dachau_2.jpg)
+
+![](/img/fotografia/dachau_6.jpg)
+
+![](/img/fotografia/dachau_3.jpg)
+
+![](/img/fotografia/dachau_4.jpg)
+
 
 
 #### El Muro de Berlín
