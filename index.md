@@ -8,10 +8,10 @@ use-site-title: true
 
 [English version](http://bernarditaried.com/english/)
 
-¡Hola! Soy una astrónoma y física que le interesa aplicar métodos estadísticos y de inteligencia artificial a observaciones cosmológicas. En este momento, soy estudiante  del Magíster en física en la Universidad de Chile (Domenico Sapone es mi profesor guía) y una Program Student en la Universidad de Munich (actualmente estoy visitando al grupo de Daniel Gruen en USM). He obtenido una beca Fulbright para continuar mis estudios de Doctorado en EEUU. En Septiembre del 2022 comenzaré un doctorado en Física (mención Astrofísica) en la Universidad de Stanford.
+¡Hola! Soy una astrónoma y física en formación que le interesa aplicar métodos estadísticos y de inteligencia artificial a observaciones cosmológicas. En este momento, soy estudiante del Magíster en física en la Universidad de Chile (Domenico Sapone es mi profesor guía) y Program Student en la Universidad de Munich (donde visité al grupo de Daniel Gruen en USM). He obtenido una beca Fulbright para continuar mis estudios de Doctorado en EEUU. En Septiembre del 2022 comenzaré un doctorado en Física (mención Astrofísica) en la Universidad de Stanford, en California.
 
 ##### ITEM Priors:
-Actualmente estoy liderando un estudio en el que replanteamos la manera de hacer inferencia estadística producto de el Prior Volume effect. Estamos validando el pipeline utilizando galaxias simuladas por DESY1 para mejorar la conexión entre la materia visible y la materia oscura. Producto de un problema con los datos, esperamos hacer nuestros resultados públicos en Enero de 2022.
+Actualmente estoy liderando un estudio en el que replanteamos la manera de hacer inferencia estadística producto de el Prior Volume effect. Estamos validando el pipeline utilizando galaxias simuladas por DESY1 para mejorar la conexión entre la materia visible y la materia oscura. Producto de un problema con los datos, esperamos hacer nuestros resultados públicos pronto.
 
 - Quiero entender el cosmos mediante observaciones astronómicas y contrastarlas con los modelos teóricos.
 - Programo en Python, Matlab y Latex. Algún día en C++.
@@ -22,6 +22,7 @@ Actualizado Diciembre 2021.
 
 #### Grupo de Cosmología y Astrofísica Teórica
 Soy parte del grupo de [Cosmología y Astrofísica Teórica](http://www.dfi.uchile.cl/grupos-investigacion/cosmologia-y-astrofisica-teorica/) del [Departamento de Física](http://www.dfi.uchile.cl/) de la Universidad de Chile. Tenemos seminarios (+ cosmopizzas), journal clubs y más actividades. Si quieres puedes enviarme un correo para comunicarte con nosotros.
+
 
 #### Interés de Investigación
 Estoy interesada en usar observaciones cosmológicas para entender de mejor manera nuestro universo y así poder definir una teoría de la física fundamental más exacta. Para cumplir ese objetivo, constantemente estudio métodos estadísticos y nuevas herramientas de inteligencia artificial.
