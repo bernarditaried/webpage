@@ -87,13 +87,13 @@ Dom Hélder Cámara (1909-1999)
 
 #### Día del orgullo 2022
 
-![](/img/fotografia/Pride_3.JPG)
+![](/img/fotografia/Pride_3.jpg)
 
-![](/img/fotografia/Pride_2.JPG)
+![](/img/fotografia/Pride_2.jpg)
 
-![](/img/fotografia/Pride_4.JPG)
+![](/img/fotografia/Pride_4.jpg)
 
-![](/img/fotografia/Pride_5.JPG)
+![](/img/fotografia/Pride_5.jpg)
 
 #### Movilización estudiantil feminista 2018
 
