@@ -16,6 +16,9 @@ Dom Hélder Cámara (1909-1999)
 
 ![](/img/fotografia/cansado_3.jpg)
 
+#### Para qué estudias derecho si no buscas igualdad y justicia 2022
+
+![](/img/fotografia/Pride_1.jpg)
 
 #### Revolución Social Chile 2019
 
@@ -81,6 +84,16 @@ Dom Hélder Cámara (1909-1999)
 
 ![](/img/fotografia/8M_11.jpg)
 
+
+#### Día del orgullo 2022
+
+![](/img/fotografia/Pride_3.JPG)
+
+![](/img/fotografia/Pride_2.JPG)
+
+![](/img/fotografia/Pride_4.JPG)
+
+![](/img/fotografia/Pride_5.JPG)
 
 #### Movilización estudiantil feminista 2018
 
