@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bernardita Ried
-subtitle: MSc en Física
+subtitle: Magíster en Física
 use-site-title: true
 ---
 ![](/img/4.png)
