@@ -19,5 +19,6 @@ Fui parte del grupo de [Cosmología y Astrofísica Teórica](http://www.dfi.uchi
 Actualmente soy miembro de [Dark Energy Science Colaboration (DESC)](https://lsstdesc.org/) del observatorio [Vera Rubin](https://www.lsst.org/). Trabajé con Aaron Roodman en el efecto cross-talk de la cámara de este megaproyecto que se está terminando de construir en el norte de Chile.
 
 [¿Quieres escucharme dar una charla de divulgación?](https://www.tvn.cl/ntv/nochesnerd/ultimoscapitulos/noches-nerd-exoplanetas-y-marte-capitulo-1-4912556)
+Te invito a [descargar el libro de matemáticas](https://www.preuencuarentena.com/libro) que hicimos en Preu en Cuarentena para enseñanza media.
 
 ##### Conceptos Clave: Cosmología, Astronomía, Física, Estadística
