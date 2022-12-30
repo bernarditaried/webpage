@@ -35,12 +35,12 @@ navbar-links:
     - Divulgación: "divulgacion"
     - Prensa: "prensa"
   Fotografía: 
-    - Chile Norte: "norte"
-    - Chile Centro: "centro"
-    - Chile Sur: "sur"
+    #- Chile Norte: "norte"
+    #- Chile Centro: "centro"
+    #- Chile Sur: "sur"
     - Asia: "asia"
-    - Europa: "europa"
-    - Estados Unidos: "usa"
+    #- Europa: "europa"
+    #- Estados Unidos: "usa"
     - Revelado Manual: "reveladomanual"
   Contacto: "contacto"
 
