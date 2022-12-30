@@ -56,16 +56,6 @@ Chile es un territorio singular y con constantes sacudidas. En el norte, su desi
 
 ![](/img/fotografia/sana_2.jpg)
 
-#### Guerra Social
-
-![](/img/fotografia/UC_2.jpg)
-
-![](/img/fotografia/UC_3.jpg)
-
-![](/img/fotografia/UC_1.jpg)
-
-![](/img/fotografia/UC_4.jpg)
-
 
 #### El litoral
 
