@@ -11,10 +11,6 @@ Chile es un territorio singular y con constantes sacudidas. En el norte, su desi
 
 ![](/img/fotografia/3_2.JPG)
 
-#### Mamalluca
-
-![](/img/fotografia/Mamalluca.jpg)
-
 
 #### Tongoy
 
