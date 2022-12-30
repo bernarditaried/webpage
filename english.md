@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bernardita Ried
-subtitle: PhD student in Physics
+subtitle: PhD student in Astrophysics
 ---
 ![](/img/IMG_20210816_165622.jpg)
 
