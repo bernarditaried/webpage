@@ -24,10 +24,6 @@ Chile es un territorio singular y con constantes sacudidas. En el norte, su desi
 
 #### Chiloé 2021
 
-![](/img/fotografia/chiloe_2021_1.jpg)
-
-![](/img/fotografia/chiloe_2021_2.jpg)
-
 ![](/img/fotografia/chiloe_2021_3.jpg)
 
 ![](/img/fotografia/chiloe_2021_4.jpg)
