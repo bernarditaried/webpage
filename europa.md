@@ -12,8 +12,6 @@ La ciencia me ha permitido llegar a lugares implensables. He logrado ver rostros
 
 ![](/img/fotografia/g_3.jpg)
 
-![](/img/fotografia/g_4.jpg)
-
 ![](/img/fotografia/g_5.jpg)
 
 ![](/img/fotografia/g_6.jpg)
@@ -22,11 +20,7 @@ La ciencia me ha permitido llegar a lugares implensables. He logrado ver rostros
 
 #### Munich
 
-![](/img/fotografia/g_1.jpg)
-
 ![](/img/fotografia/g_2.jpg)
-
-![](/img/munich_1.jpg)
 
 ![](/img/munich_2.jpg)
 
@@ -45,8 +39,6 @@ La ciencia me ha permitido llegar a lugares implensables. He logrado ver rostros
 ![](/img/greek_1.jpg)
 
 ![](/img/greek_2.jpg)
-
-![](/img/greek_3.jpg)
 
 ![](/img/fotografia/greek_4.jpg)
 
