@@ -6,7 +6,7 @@ use-site-title: true
 ![](/img/eclipse_5.png)
 
 
-Foto que tomé artesanalmente con mi teléfono
+Foto que tomé artesanalmente con mi teléfono :)
 
 Los cielos de Chile, reconocidos laboratorios naturales para la observación del universo, serán el escenario de un evento astronómico histórico: el eclipse totales de Sol.
 
