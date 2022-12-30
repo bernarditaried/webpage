@@ -22,8 +22,6 @@ Chile es un territorio singular y con constantes sacudidas. En el norte, su desi
 
 ![](/img/fotografia/limari_4.JPG)
 
-![](/img/fotografia/limari_5.JPG)
-
 ![](/img/fotografia/limari_6.JPG)
 
 ![](/img/fotografia/limari_7.JPG)
@@ -36,10 +34,6 @@ Chile es un territorio singular y con constantes sacudidas. En el norte, su desi
 ![](/img/fotografia/des_1.JPG)
 
 ![](/img/fotografia/des_2.JPG)
-
-![](/img/fotografia/des_3.JPG)
-
-![](/img/fotografia/des_4.JPG)
 
 ![](/img/fotografia/des_5.JPG)
 
